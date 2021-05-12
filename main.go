@@ -162,6 +162,8 @@ a count and a string.`,
 		Long:  ``,
 		Args:  cobra.MinimumNArgs(0),
 		Run: func(cmd *cobra.Command, args []string) {
+			// NOT WORKING
+			go getData()
 		},
 	}
 
@@ -177,8 +179,9 @@ func getData() {
 	// var start int = 0
 	// var end int = 100
 	// totoal 13063 records in API
-	 getAPI(0, 100)
-	 getAPI(100, 200)
+	// 4126465447537248101
+	getAPI(0, 100)
+	//  getAPI(100, 200)
 	// for i := 0; i < 2; i++ {
 	// 	getAPI(start, end)
 	// 	start += 100

@@ -1,201 +1,101 @@
 ID,Appid,Appnameall
-4126358182007074101,F2941,Sales Performance - Plan/Actual
-4126358182007074102,F4550,Schedule Physical Inventory Document Creation
-4126358182007074103,F4030,Service Station Overview
-4126358182007074104,F3717,Set Kanban Container Status
-4126358182007074105,F4242,Settle Route Data
-4126358182007074106,F2570,Simulate Configuration Models
-4126358182007074107,F2137,Slow or Non-Moving Materials
-4126358182007074108,F2375,Supervise Collections Worklist
-4126358182007074109,F2737,Supply Chain Visualization
-4126358182007074110,F2577,Track Sales Orders (S/4HANA)
-4126358182007074111,F2449,Transfer Products
-4126358182007074112,F1957,Transfer Stock - Cross-Plant
-4126358182007074113,F4316,Treasury Executive Dashboard
-4126358182007074114,F2548,Upload General Journal Entries
-4126358182007074115,F5445,Analyze and Resolve Blocked Documents - Trade Compliance
-4126358182007074116,F5464,App Send Clearing Information Again
-4126358182007074117,F5305,Assign Additional Properties to Material
-4126358182007074118,F5306,Assign Waste Codes to Material
-4126358182007074119,F5332,ATP Object and Value Determination Library
-4126358182007074120,F5253,Central Finance Navigation Router
-4126358182007074121,F5469,Change Requests and Activities - Detailed Analysis2
-4126358182007074122,F5491,Contract Cash Flow
-4126358182007074123,F5273,Contract Management
-4126358182007074124,F5291,Cost Share Contribution
-4126358182007074125,F5416,Create MRP Change Requests
-4126358182007074126,F5480,Data Maintenance Work View
-4126358182007074127,F5488,Define Bank Account Settings - Bank Statements
-4126358182007074128,F5608,Define Data Mappings for File Formats
-4126358182007074129,F5387,Delete Simulated Offer
-4126358182007074130,F5483,Display Asset Retirement Obligation documents
-4126358182007074131,F5150,Display Cost Rates
-4126358182007074132,F5518,Display Customer Balances - Redacted
-4126358182007074133,F5322,Display Customer Line Items - Redacted
-4126358182007074134,F5494,Display Error Logs - Billable Items
-4126358182007074135,F5493,Display Error Logs - Consumption Items
-4126358182007074136,F5401,Display Head Office Receivables
-4126358182007074137,F5509,Display Joint Interest Billing details
-4126358182007074138,F5228,Event-Based Posting Rules
-4126358182007074139,F3986,Injury/Illness Log - Detailed Analysis
-4126358182007074140,F5350,Maintain Client Certificates
-4126358182007074141,F5302,Manage Access Sequences - Substitutions
-4126358182007074142,F5372,Manage AVC Exceptions
-4126358182007074143,F5303,Manage Characteristic Combinations
-4126358182007074144,F5400,Manage Collections Master Data
-4126358182007074145,F5474,Manage Contract Accounts
-4126358182007074146,F5413,Manage Customer Condition Contracts
-4126358182007074147,F5315,Manage Exclusions - Locations
-4126358182007074148,F5366,Manage ILM File Conversion
-4126358182007074149,F4026,Manage Injury/Illness Log
-4126358182007074150,F5470,Manage Invoice Prioritization Rules
-4126358182007074151,F5457,Manage JIT Packing Groups
-4126358182007074152,F5426,Manage Master Recipes
-4126358182007074153,F5238,Manage Multilevel Bill Of Material
-4126358182007074154,F5323,Manage Process Order Operations
-4126358182007074155,F5342,Manage Project Budget Transfers
-4126358182007074156,F5431,Manage Regulatory Graphics
-4126358182007074157,F5425,Manage Routings
-4126358182007074158,F5414,Manage Royalty Condition Contracts
-4126358182007074159,F5157,Manage Safety-Related Properties
-4126358182007074160,F5554,Manage Sales Document - Re-use Library
-4126358182007074161,F5312,Manage Substitution Controls - Locations
-4126358182007074162,F5311,Manage Substitution Groups - Locations
-4126358182007074163,F5313,Manage Substitution Reasons - Locations
-4126358182007074164,F5314,Manage Substitutions - Locations
-4126358182007074165,F5329,Manage Teams and Responsibilities for Legal Contract
-4126358182007074166,F5467,Manage Uses
-4126358182007074167,F5443,Manage Workflows for Payment Requisitions
-4126358182007074168,F5617,Map Incoming Payment Format Data
-4126358182007074169,F2685A,Map Outgoing Payment Format Data
-4126358182007074170,F3554A,Map Treasury Correspondence Format Data (Version 2)
-4126358182007074171,F5091,Mass Change of Sales Documents
-4126358182007074172,F4965,Migrate to Global Hierarchies
-4126358182007074173,F5331,My Inbox for Legal Contract
-4126358182007074174,F5192,My Permits
-4126358182007074175,F5384,Offer Receivables for Sale
-4126358182007074176,F5104A,Perform Maintenance Jobs
-4126358182007074177,F4902,Prepare Master Data Change from External System
-4126358182007074178,F4901,Process Master Data Change from External System
-4126358182007074179,F5385,Process Response of Factor
-4126358182007074180,F5389,Reset Excepted Receivables
-4126358182007074181,F5294,Review Availability Check Result - Product Allocation
-4126358182007074182,F5500,Schedule Document Completion -  Settlement Management
-4126358182007074183,F5502,Schedule Document Pricing - Settlement Management
-4126358182007074184,F5417,Schedule MRP Rescheduling Checks
-4126358182007074185,F5429,Schedule Output for Central Purchase Contracts
-4126358182007074186,F5471,Schedule Output for Centrally Managed Purchase Orders
-4126358182007074187,F5374,Schedule Project Billing Preparation
-4126358182007074188,F5418,Schedule Sending of MRP Change Requests
-4126358182007074189,F5506,Schedule Stock Attribute Change
-4126358182007074190,F5367,Schedule the Release of Purchase Order Outputs
-4126358182007074191,F5447,Schedule Unassigning of MRP Areas
-4126358182007074192,F5463,Send Offer Data Again
-4126358182007074193,F5386,Send Update to Factor
-4126358182007074194,F5380,Short-Term Cash Position
-4126358182007074195,F2234A,Supplier Evaluation by Questionnaire (Version 2)
-4126358182007074196,F5404,Test Data Container
-4126358182007074197,W0177,Year-to-Date Balances
-4126358182007074198,F2917,Accounts Payable Overview
-4126358182007074199,F4363,Allocation Results
-4126358182007074200,F2222,Analyze Work Center Utilization / Manage Work Center Utilization
-4126358182007074201,F2058,Application Job Templates
-4126358182007074202,F3894,Assign Sold-to Parties
-4126358182007074203,F0997,Audit Journal
-4126358182007074204,W0161,Balance Sheet/Income Statement - Multidimensional
-4126358182007074205,F2820,Business Role Templates
-4126358182007074206,F3951,Capacity Scheduling Board / Monitor Work Center Schedules
-4126358182007074207,F1706,Change Inbound Delivery / Change Inbound Delivery.
-4126358182007074208,F2189,Classification
-4126358182007074209,F3710,Classify Packaged Dangerous Good
-4126358182007074210,F3642,Classify Unpackaged Dangerous Good
-4126358182007074211,F3341,Compliance Request from Logistics
-4126358182007074212,F2699,Configure Substitution Strategy
-4126358182007074213,F4569,Configure Supply Protection
-4126358182007074214,F1837,Configure the Consumption of Predictive Models
-4126358182007074215,W0154,Contract Balance Movements
-4126358182007074216,F5001,Create JIT Delivery Schedule (In Background)
-4126358182007074217,F1511A,Create Maintenance Request
-4126358182007074218,F3648,Create Payments
-4126358182007074219,F4104,Create Purchase Orders from Central Quotations
-4126358182007074220,F3280,Data Migration Status
-4126358182007074221,F4110,Data Migration Status(Load Statistics)
-4126358182007074222,F2131,Define Advanced Compliance Reports / Define Compliance Reports / Define Statutory Reports
-4126358182007074223,F2655,Define Validation Methods
-4126358182007074224,F2627,Define Validation Rules
-4126358182007074225,F3009,Demand Analysis of Customer JIT Calls
-4126358182007074226,F3276,Demand-Driven Replenishment
-4126358182007074227,W0156,Disaggregation of Recognized Revenue
-4126358182007074228,W0157,Disaggregation of Revenue
-4126358182007074229,F2141,Display G/L Account Balances - China
-4126358182007074230,F3869,Display Matching Items
-4126358182007074231,F4898,Display Material Value Chain - Estimated Cost
-4126358182007074232,F5060,Display Product Compliance Event Log
-4126358182007074233,F5059,Display Product Compliance Task Log
-4126358182007074234,F4597,Display Settlement Documents
-4126358182007074235,F4007,Edit and Approve Purchase Requisition
-4126358182007074236,F2933,Enterprise Contract Management Overview / Enterprise Contract Overview / Legal Content Overview Page
-4126358182007074237,F4254,Event-Based Order Costs
-4126358182007074238,F4059,Event-Based Production Costs
-4126358182007074239,F3498,Event-Based Work in Process
-4126358182007074240,F4293,Import Sales Orders
-4126358182007074241,F3663,Import/Export Validation Settings
-4126358182007074242,F2180,Inspection Lot (S/4HANA)
-4126358182007074243,F1261,Install Additional Software
-4126358182007074244,F4470,Intelligent Scenario Management
-4126358182007074245,F4469,Intelligent Scenarios
-4126358182007074246,F1635,Internal Project Factsheet
-4126358182007074247,F5235,Kanban Control Cycle Analysis / Kanban Control Cycles Analysis
-4126358182007074248,F4232,Maintain Cash Flow Statement Version
-4126358182007074249,F2275,Maintain Certificate Trust List
-4126358182007074250,F1434,Maintain Form Templates
-4126358182007074251,F5105,Maintenance Backlog Overview
-4126358182007074252,F2603,Maintenance Scheduling Board
-4126358182007074253,F3338,Manage Allocations
-4126358182007074254,F3210,Manage Analytical Compositions
-4126358182007074255,F1574,Manage Banks
-4126358182007074256,F0797,Manage Billing Documents
-4126358182007074257,F3163,Manage Business Partner Master Data
-4126358182007074258,F3974,Manage Central RFQs
-4126358182007074259,F3975,Manage Central Supplier Quotations
-4126358182007074260,F2212,Manage Change Masters
-4126358182007074261,F2097,Manage Change Records / Manage Engineering Changes
-4126358182007074262,F3829,Manage Characteristic Catalogs
-4126358182007074263,F2346,Manage Context for Legal Content / Manage Context for Legal Contract
-4126358182007074264,F3422,Manage Cost Rates - Actual
-4126358182007074265,F3162,Manage Cost Rates - Plan
-4126358182007074266,F3161,Manage Cost Rates - Professional Services
-4126358182007074267,F3008,Manage Customer JIT Call
-4126358182007074268,F0850A,Manage Customer Master Data
-4126358182007074269,F2499,Manage Customer Materials
-4126358182007074270,F2651,Manage Customer Returns - Create
-4126358182007074271,F2650,Manage Customer Returns - Edit
-4126358182007074272,F2653,Manage Data Validation Tasks
-4126358182007074273,F3895,Manage Delivery Schedule Processing
-4126358182007074274,F4781,Manage Deviation Profiles
-4126358182007074275,F0702A,Manage Dispute Cases (Version 2)
-4126358182007074276,F5132,Manage Event-Based Posting Errors - Product Costing
-4126358182007074277,F4786,Manage Exclusions
-4126358182007074278,F3425,Manage Fixed Assets (New)
-4126358182007074279,F3790,Manage Freight Agreements
-4126358182007074280,F0717,Manage G/L Documents / Manage Journal Entries
-4126358182007074281,F2918,Manage Global Accounting Hierarchies / Manage Global Hierarchies
-4126358182007074282,F4182,Manage Grants
-4126358182007074283,F4025,Manage In-House Repairs
-4126358182007074284,F5086,Manage Information on Hazardous Ingredients
-4126358182007074285,F2343,Manage Inspection Lots
-4126358182007074286,F3011,Manage JIT Customer data
-4126358182007074287,F3010,Manage JIT Customer Supply Control
-4126358182007074288,F5268,Manage JIT Delivery Confirmation
-4126358182007074289,F2814,Manage KPIs and Reports
-4126358182007074290,F4512,Manage Launchpad Pages
-4126358182007074291,F4834,Manage Launchpad Spaces
-4126358182007074292,F1497A,Manage Legal Compositions
-4126358182007074293,F2304,Manage Legal Tasks / Manage Tasks for Legal Content / Manage Tasks for Legal Contract
-4126358182007074294,F2310,Manage Legal Transactions
-4126358182007074295,F4598,Manage Location Roles
-4126358182007074296,F0251,Manage Material Coverage / Manage Material Shortages
-4126358182007074297,F4864,Manage Material Data
-4126358182007074298,F2680,Manage Material Valuations
-4126358182007074299,F4096,Manage Material-based Composition
-4126358182007074300,F5087,Manage Occupational Exposure Limits
+41273609698207321,F3770,Capacity Scheduling Table / Schedule Production
+41273609698207322,F2332,Cash Flow Analyzer
+41273609698207323,F3140,Change Process Analysis for Business Partner
+41273609698207324,F2721,Chemical Inventory Reporting
+41273609698207325,F2151,Classify Products - Commodity Codes
+41273609698207326,F2903,Commitments and Actuals Analyses
+41273609698207327,F3226,Compliance Information for Products
+41273609698207328,F3340,Count Physical Inventory
+41273609698207329,F1705,Create Inbound Delivery
+412736096982073210,F1700,Create Optimal Orders for Shipment
+412736096982073211,F4920,Create Sales Orders - Automatic Extraction
+412736096982073212,F1712,Custom Business Objects
+412736096982073213,F1866A,Custom CDS Views (Version 2)
+412736096982073214,F3191,Custom Code Migration
+412736096982073215,F1481,Custom Fields and Logic
+412736096982073216,F4486,Cycle Counting - Classification
+412736096982073217,F3900,Data Quality Evaluation Overview for Business Partners
+412736096982073218,F3260,Data Quality Evaluation Overview for Products
+412736096982073219,F3130,Debt and Investment Maturity Profile
+412736096982073220,F0763A,Display Chart of Accounts (Version 2) / Manage Chart of Accounts
+412736096982073221,F3665,Display Document Flow
+412736096982073222,F3664,Display Journal Entries in T-Account View
+412736096982073223,F4095,Display Material Value Chain / Display Material Value Chain - Actual Costs
+412736096982073224,F5133,Event-Based Solution Monitor - Product Costing
+412736096982073225,F2587,Extensibility Inventory
+412736096982073226,F2331,Foreign Exchange Overview
+412736096982073227,F2411,Identify Risks
+412736096982073228,F3239,Inspection Lot Analytics
+412736096982073229,F3273,Inspection Lot Detailed Analytics
+412736096982073230,F4094,Integrated Dispatch Management
+412736096982073231,F3098,Interest Rate Overview
+412736096982073232,F3366,Inventory Analysis Overview
+412736096982073233,F3749,Inventory KPI Analysis
+412736096982073234,F4630,Kanban Board
+412736096982073235,F0431,Look Up Retail Products
+412736096982073236,F0691,Make Bank Transfers
+412736096982073237,F2960,Manage Billing Document Requests
+412736096982073238,F2706,Manage Buffer Levels
+412736096982073239,F3144,Manage Central Purchase Contracts
+412736096982073240,F2518,Manage Control Classes
+412736096982073241,F4596,Manage Credit Accounts
+412736096982073242,F1708,Manage Customer Returns
+412736096982073243,F3337,Manage Data Quality Rules for Products
+412736096982073244,F2649,Manage Defects
+412736096982073245,F3788,Manage Inspection Plans
+412736096982073246,F2545,Manage Licenses
+412736096982073247,F1823,Manage My Timesheet
+412736096982073248,F0867A,Manage Outbound Deliveries
+412736096982073249,F4374,Manage Project Billing
+412736096982073250,F0842A,Manage Purchase Orders (Version 2)
+412736096982073251,F1048,Manage Purchase Requisitions / Process Purchase Requisitions
+412736096982073252,F2049,Manage Requests for Quotation
+412736096982073253,F3576,Manage Rule Mining
+412736096982073254,F3857,Manage Safety Instructions / Manage Safety Instructions - Substances
+412736096982073255,F2512,Manage Sales  Plans / Manage Sales Plans
+412736096982073256,F3893,Manage Sales Orders (Version 2)
+412736096982073257,F2412,Manage Teams and Responsibilities
+412736096982073258,F2345,Manage Usage Decisions
+412736096982073259,F2190,Manage Workflows
+412736096982073260,F3473,Migrate Your Data
+412736096982073261,F3492,Monitor Central Purchase Contract Items
+412736096982073262,F2831,Monitor Demand-Driven Replenishment
+412736096982073263,F3356,Monitor Materials Without Purchase Contract
+412736096982073264,F2358,Monitor Purchase Order Items
+412736096982073265,F3095,Monitor Subcontracting Documents
+412736096982073266,F2164,My Budget Alerts
+412736096982073267,F2163,My Budget Overview
+412736096982073268,F0862,My Inbox
+412736096982073269,F0584A,My Travel and Expenses (Version 2)
+412736096982073270,F0409A,My Travel Requests (Version 2)
+412736096982073271,F3584,Nonconformance Analytics
+412736096982073272,F1662,Operational Supplier Evaluation / Supplier Evaluation
+412736096982073273,F2801,Outstanding Billing Overview
+412736096982073274,F2139,Overdue Materials - Stock in Transit
+412736096982073275,F3193,Pack Outbound Deliveries
+412736096982073276,F2786,Periodic Meter Reading Overview
+412736096982073277,F2743,Physical Inventory Capture IOG - Gauge Reading
+412736096982073278,F0379A,Physical Inventory Document Overview
+412736096982073279,F2793,Pick by Cart
+412736096982073280,F3408,Predicted Delivery Delay
+412736096982073281,F4643,Process Picking Requests
+412736096982073282,F0106A,Process Receivables (Version 2)
+412736096982073283,F4763,Process Snapshots - Balance Sheet FX Risk
+412736096982073284,F1990,Procurement Overview Page
+412736096982073285,F3822,Project Planning
+412736096982073286,F2794,Project Profitability Overview
+412736096982073287,F2360,Quality Engineer Overview
+412736096982073288,F2361,Quality Technician Overview
+412736096982073289,F1904,Quotation Conversion Rates / Quotation Conversion Rates - Valid / Not Completed
+412736096982073290,F3302,Reconcile GR/IR Accounts
+412736096982073291,F2929,Record Defects
+412736096982073292,F1685,Record Inspection Results
+412736096982073293,F3365,Record Inspection Results in Table Form
+412736096982073294,F2232,Regional Inventory View
+412736096982073295,F2792,Resolve Blocked Documents - Trade Compliance
+412736096982073296,F4197,Resolve Internal  Problems / Resolve Internal Problems
+412736096982073297,F2428,Results History
+412736096982073298,F1704,Run Outbound Process - Deliveries
+412736096982073299,F2601,Sales Management Overview
+4127360969820732100,F0029A,Sales Order Fulfillment Issues (Version 2)
