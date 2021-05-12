@@ -1,101 +1,1301 @@
 ID,Appid,Appnameall
-41273609698207321,F3770,Capacity Scheduling Table / Schedule Production
-41273609698207322,F2332,Cash Flow Analyzer
-41273609698207323,F3140,Change Process Analysis for Business Partner
-41273609698207324,F2721,Chemical Inventory Reporting
-41273609698207325,F2151,Classify Products - Commodity Codes
-41273609698207326,F2903,Commitments and Actuals Analyses
-41273609698207327,F3226,Compliance Information for Products
-41273609698207328,F3340,Count Physical Inventory
-41273609698207329,F1705,Create Inbound Delivery
-412736096982073210,F1700,Create Optimal Orders for Shipment
-412736096982073211,F4920,Create Sales Orders - Automatic Extraction
-412736096982073212,F1712,Custom Business Objects
-412736096982073213,F1866A,Custom CDS Views (Version 2)
-412736096982073214,F3191,Custom Code Migration
-412736096982073215,F1481,Custom Fields and Logic
-412736096982073216,F4486,Cycle Counting - Classification
-412736096982073217,F3900,Data Quality Evaluation Overview for Business Partners
-412736096982073218,F3260,Data Quality Evaluation Overview for Products
-412736096982073219,F3130,Debt and Investment Maturity Profile
-412736096982073220,F0763A,Display Chart of Accounts (Version 2) / Manage Chart of Accounts
-412736096982073221,F3665,Display Document Flow
-412736096982073222,F3664,Display Journal Entries in T-Account View
-412736096982073223,F4095,Display Material Value Chain / Display Material Value Chain - Actual Costs
-412736096982073224,F5133,Event-Based Solution Monitor - Product Costing
-412736096982073225,F2587,Extensibility Inventory
-412736096982073226,F2331,Foreign Exchange Overview
-412736096982073227,F2411,Identify Risks
-412736096982073228,F3239,Inspection Lot Analytics
-412736096982073229,F3273,Inspection Lot Detailed Analytics
-412736096982073230,F4094,Integrated Dispatch Management
-412736096982073231,F3098,Interest Rate Overview
-412736096982073232,F3366,Inventory Analysis Overview
-412736096982073233,F3749,Inventory KPI Analysis
-412736096982073234,F4630,Kanban Board
-412736096982073235,F0431,Look Up Retail Products
-412736096982073236,F0691,Make Bank Transfers
-412736096982073237,F2960,Manage Billing Document Requests
-412736096982073238,F2706,Manage Buffer Levels
-412736096982073239,F3144,Manage Central Purchase Contracts
-412736096982073240,F2518,Manage Control Classes
-412736096982073241,F4596,Manage Credit Accounts
-412736096982073242,F1708,Manage Customer Returns
-412736096982073243,F3337,Manage Data Quality Rules for Products
-412736096982073244,F2649,Manage Defects
-412736096982073245,F3788,Manage Inspection Plans
-412736096982073246,F2545,Manage Licenses
-412736096982073247,F1823,Manage My Timesheet
-412736096982073248,F0867A,Manage Outbound Deliveries
-412736096982073249,F4374,Manage Project Billing
-412736096982073250,F0842A,Manage Purchase Orders (Version 2)
-412736096982073251,F1048,Manage Purchase Requisitions / Process Purchase Requisitions
-412736096982073252,F2049,Manage Requests for Quotation
-412736096982073253,F3576,Manage Rule Mining
-412736096982073254,F3857,Manage Safety Instructions / Manage Safety Instructions - Substances
-412736096982073255,F2512,Manage Sales  Plans / Manage Sales Plans
-412736096982073256,F3893,Manage Sales Orders (Version 2)
-412736096982073257,F2412,Manage Teams and Responsibilities
-412736096982073258,F2345,Manage Usage Decisions
-412736096982073259,F2190,Manage Workflows
-412736096982073260,F3473,Migrate Your Data
-412736096982073261,F3492,Monitor Central Purchase Contract Items
-412736096982073262,F2831,Monitor Demand-Driven Replenishment
-412736096982073263,F3356,Monitor Materials Without Purchase Contract
-412736096982073264,F2358,Monitor Purchase Order Items
-412736096982073265,F3095,Monitor Subcontracting Documents
-412736096982073266,F2164,My Budget Alerts
-412736096982073267,F2163,My Budget Overview
-412736096982073268,F0862,My Inbox
-412736096982073269,F0584A,My Travel and Expenses (Version 2)
-412736096982073270,F0409A,My Travel Requests (Version 2)
-412736096982073271,F3584,Nonconformance Analytics
-412736096982073272,F1662,Operational Supplier Evaluation / Supplier Evaluation
-412736096982073273,F2801,Outstanding Billing Overview
-412736096982073274,F2139,Overdue Materials - Stock in Transit
-412736096982073275,F3193,Pack Outbound Deliveries
-412736096982073276,F2786,Periodic Meter Reading Overview
-412736096982073277,F2743,Physical Inventory Capture IOG - Gauge Reading
-412736096982073278,F0379A,Physical Inventory Document Overview
-412736096982073279,F2793,Pick by Cart
-412736096982073280,F3408,Predicted Delivery Delay
-412736096982073281,F4643,Process Picking Requests
-412736096982073282,F0106A,Process Receivables (Version 2)
-412736096982073283,F4763,Process Snapshots - Balance Sheet FX Risk
-412736096982073284,F1990,Procurement Overview Page
-412736096982073285,F3822,Project Planning
-412736096982073286,F2794,Project Profitability Overview
-412736096982073287,F2360,Quality Engineer Overview
-412736096982073288,F2361,Quality Technician Overview
-412736096982073289,F1904,Quotation Conversion Rates / Quotation Conversion Rates - Valid / Not Completed
-412736096982073290,F3302,Reconcile GR/IR Accounts
-412736096982073291,F2929,Record Defects
-412736096982073292,F1685,Record Inspection Results
-412736096982073293,F3365,Record Inspection Results in Table Form
-412736096982073294,F2232,Regional Inventory View
-412736096982073295,F2792,Resolve Blocked Documents - Trade Compliance
-412736096982073296,F4197,Resolve Internal  Problems / Resolve Internal Problems
-412736096982073297,F2428,Results History
-412736096982073298,F1704,Run Outbound Process - Deliveries
-412736096982073299,F2601,Sales Management Overview
-4127360969820732100,F0029A,Sales Order Fulfillment Issues (Version 2)
+41368536611055001201,F3126,Display Returns
+41368536611055001202,F3327,Display Safety-Relevant Information
+41368536611055001203,F2254,Display Sample
+41368536611055001204,F2255,Display Sampling Procedure
+41368536611055001205,F3638,Display Saved Open Item Lists
+41368536611055001206,F2191,Display Scorecards
+41368536611055001207,F3036,Display Search Models / Manage Search Models
+41368536611055001208,F4204,Display Security Audit Log
+41368536611055001209,F5147,Display Serial Numbers
+41368536611055001210,F2727,Display Service Request
+41368536611055001211,F4964,Display Settlement Dates
+41368536611055001212,F4733,Display Status Board
+41368536611055001213,F2061,Display Strategy Determination
+41368536611055001214,F0701,Display Supplier Balances / Display Vendor Balances
+41368536611055001215,F1861,Display Supplier List
+41368536611055001216,F2127,Display Supplier Summary - China
+41368536611055001217,F3371,Display Suppliers - Procurement
+41368536611055001218,F3132,Display Suppressed Billing Orders
+41368536611055001219,F2025,Display Treasury Alerts
+41368536611055001220,F4983,Display Treasury Alerts - Correspondence
+41368536611055001221,F4982,Display Treasury Alerts - Interest Rates
+41368536611055001222,F4981,Display Treasury Alerts - Payment
+41368536611055001223,F4984,Display Treasury Alerts - Posting
+41368536611055001224,F4980,Display Treasury Alerts - Release
+41368536611055001225,F4979,Display Treasury Alerts - Settlement
+41368536611055001226,F1754,Display Treasury Position Flows
+41368536611055001227,F1867,Display Treasury Position Values
+41368536611055001228,F3123,Display Treasury Position Values for Expected Losses
+41368536611055001229,F1755,Display Treasury Posting Journal
+41368536611055001230,F3125,Display Write-Offs
+41368536611055001231,F4370,Dispute Management Reporting
+41368536611055001232,F5055,Distribute Revenues
+41368536611055001233,F4423,Document Flow (Performance Obligation)
+41368536611055001234,F0641,Document Info Record
+41368536611055001235,F0642,Document Info Record Structure
+41368536611055001236,F3246,Doubtful Accounts Valuation
+41368536611055001237,F2638,Drill-Through Reports
+41368536611055001238,F0654,DSiM Event Monitor
+41368536611055001239,F0301,Due Network Activities
+41368536611055001240,F0297,Due Project Milestones
+41368536611055001241,F0300,Due Project PO Items
+41368536611055001242,F0303,Due WBS Elements
+41368536611055001243,F1742,Dunning Level Distribution (S/4HANA)
+41368536611055001244,F0607,Dunning Level Distribution (sFIN)
+41368536611055001245,F3545,Dunning Runs
+41368536611055001246,F3216,Duplicate Check Reuse Library - Master Data
+41368536611055001247,F0833,Earmarked Fund Document
+41368536611055001248,F0833A,Earmarked Funds Document 360° View
+41368536611055001249,F2286,Earmarked Funds: Approval
+41368536611055001250,F2284,Edit Journal Entry for Invoice Summary - Japan
+41368536611055001251,F2130,Edit Options for Journal Entries - My Settings
+41368536611055001252,F3813,Edit Supplier Invoice Settings
+41368536611055001253,F1259,Email Transmissions
+41368536611055001254,F0676,Embargo Blocked Documents
+41368536611055001255,F3511,Embedded Work Instruction
+41368536611055001256,F3258,Emergency Access Management Overview
+41368536611055001257,F4332,Emission Forecast
+41368536611055001258,F1522,Employee Fact Sheet
+41368536611055001259,F1383,Employee Lookup
+41368536611055001260,F1383A,Employee Lookup (Version 2/Fiori 2.0)
+41368536611055001261,F3556,Enable Data Aging
+41368536611055001262,F3384,Engineering Cockpit
+41368536611055001263,F1475,Enter Grades
+41368536611055001264,F0675,Enterprise Risk Report
+41368536611055001265,F0226,Equipment
+41368536611055001266,F3702,Erroneous Tasks
+41368536611055001267,F3532,Evaluate Installment Plans for Key Date
+41368536611055001268,F1650,Evaluate Suppliers
+41368536611055001269,F3905,Evaluation Results for Business Partners
+41368536611055001270,F3902,Evaluation Results for Company Code Data of Customers
+41368536611055001271,F3904,Evaluation Results for Company Code Data of Suppliers
+41368536611055001272,F3903,Evaluation Results for Purchasing Data of Suppliers
+41368536611055001273,F3901,Evaluation Results for Sales Data of Customers
+41368536611055001274,F1246,Event Management Freight Order Visiblity Reuse Layer
+41368536611055001275,F2129,Event-Based Revenue Recognition
+41368536611055001276,F2280,Events Page
+41368536611055001277,F2171,Excess Component Consumption
+41368536611055001278,F2717,Exchange Agreement
+41368536611055001279,F3184,Exchange Agreement Purchase KPI
+41368536611055001280,F3183,Exchange Agreement Sales KPI
+41368536611055001281,F3416,Exclude Fields and Records
+41368536611055001282,F3525,Execute Billing
+41368536611055001283,F3524,Execute Invoicing
+41368536611055001284,F3773,Execute Rating
+41368536611055001285,F3298,Expected Goods Receipt
+41368536611055001286,F3970,Expiring Service Contracts Analysis
+41368536611055001287,F4976,Explain Scheduling Results
+41368536611055001288,F4584,Explode Bills Of Material
+41368536611055001289,F0324,Explore Days of Supply
+41368536611055001290,F0323,Explore Projected Service Level
+41368536611055001291,F0329,Explore Projected Stock Value
+41368536611055001292,F0582,Explore Stock Deficits
+41368536611055001293,F0583,Explore Stock Overages
+41368536611055001294,F0332,Explore Supply Network
+41368536611055001295,F0580,Explore Supply Shortages
+41368536611055001296,F0581,Explore Uncovered Sales Orders
+41368536611055001297,F4088,Export Data Quality Rules for Business Partners
+41368536611055001298,F4087,Export Data Quality Rules for Products
+41368536611055001299,F4018,Export Extensibility Template
+41368536611055001300,F3251,Export Master Data / Export Master Data (MDG)
+41368536611055001301,F3929,Export Master Data Quality Rules
+41368536611055001302,F1433,Export Software Collection
+41368536611055001303,F2911,Expression Editor
+41368536611055001304,F2866,Extensibility Cockpit
+41368536611055001305,F1939,Extensibility Logic - Reuse Library
+41368536611055001306,F1474,Extensibility Logs - Reuse Library
+41368536611055001307,F4017,Extensibility Settings
+41368536611055001308,F4906,External Cash Desk: Transfer Open Items
+41368536611055001309,F2393,External Catalog Interface
+41368536611055001310,F4048,Extract Data for SARA 312 Reports
+41368536611055001311,F0554,Failed Access Provisioning / Failed Requests
+41368536611055001312,F1765,FIN User Default Parameter Plugin
+41368536611055001313,F5003,Finance Application Log
+41368536611055001314,F5002,Finance Application Log Messages
+41368536611055001315,F2693,Financial Close Overview
+41368536611055001316,F5144,Financial Plan Data Logs
+41368536611055001317,F2741,Financial Plan Data Report (Design Studio)
+41368536611055001318,F2574,Financial Statement Items List
+41368536611055001319,F2136A,Financial Status (Design Studio)
+41368536611055001320,F3168,Financial Status (Nominal Amount)   - Design Studio / Financial Status (Nominal Amount) - Design Studio
+41368536611055001321,F3621,Find Maintenance Items
+41368536611055001322,F5008,Find Maintenance Items - Service
+41368536611055001323,F2071,Find Maintenance Notification
+41368536611055001324,F2175,Find Maintenance Order
+41368536611055001325,F2173,Find Maintenance Order and Operation
+41368536611055001326,F2174,Find Maintenance Order Confirmation
+41368536611055001327,F3622,Find Maintenance Plans
+41368536611055001328,F5009,Find Maintenance Plans - Service
+41368536611055001329,F2660,Find Maintenance Task List / Find Task List
+41368536611055001330,F2661,Find Maintenance Task List and Operation / Find Task List and Operation
+41368536611055001331,F2553,Find Standard Texts
+41368536611055001332,F2072,Find Technical Object
+41368536611055001333,F2386,Findings
+41368536611055001334,F2777,Fine-Tune Search Ranking - Enterprise Search
+41368536611055001335,F1566,Fiori Reuse Library for Fin Posting Apps
+41368536611055001336,F0557,Firefighter Logon Review / Firefighter Usage
+41368536611055001337,F2846,First Notice of Loss
+41368536611055001338,F1119,Fiscal Year Change
+41368536611055001339,F1043,Fix Errors
+41368536611055001340,F0128,Fixed Asset (ERP)
+41368536611055001341,F1726,Fixed Asset (S/4HANA)
+41368536611055001342,F1626,Fixed Asset (sFIN)
+41368536611055001343,F1575,Foreign Bank Account Report
+41368536611055001344,F2468,Foreign Currency Trade Reporting
+41368536611055001345,F1457A,Form Bundles
+41368536611055001346,F0416,Forwarding Orders
+41368536611055001347,F0664,Forwarding Orders (Version 2)
+41368536611055001348,F2677,Freight Booking Execution
+41368536611055001349,F2747,Freight Booking Execution - ALP
+41368536611055001350,F2748,Freight Booking Execution Status - ALP
+41368536611055001351,F2749,Freight Booking Quantities - ALP
+41368536611055001352,F2678,Freight Booking: Quantity driven operational Business
+41368536611055001353,F2675,Freight Order Execution
+41368536611055001354,F2750,Freight Order Execution - ALP
+41368536611055001355,F2751,Freight Order Execution Status - ALP
+41368536611055001356,F2752,Freight Order Quantities - ALP
+41368536611055001357,F0762,Freight Order Visibility
+41368536611055001358,F2676,Freight Order: Quantity driven operational Business
+41368536611055001359,F0563,Frequently Used Actions
+41368536611055001360,F0564,Frequently Used Roles
+41368536611055001361,F0728,Functional Area
+41368536611055001362,F0728A,Functional Area 360° View / Manage Functional Areas
+41368536611055001363,F0727,Functional Area Group
+41368536611055001364,F0727A,Functional Area Group 360° View
+41368536611055001365,F1583C,Functional Areas - Actuals (Cloud) - Design Studio
+41368536611055001366,F1583B,Functional Areas - Actuals (Design Studio)
+41368536611055001367,F1584A,Functional Areas - Plan/Actual  (Design Studio)
+41368536611055001368,F1585A,Functional Areas - Plan/Actual with Currency Translation (Design Studio)
+41368536611055001369,F1586A,Functional Areas - Plan/Actual YTD (Design Studio)
+41368536611055001370,F2887,Functional Areas - Plan/Actuals (Cloud) - Design Studio
+41368536611055001371,F0227,Functional Location
+41368536611055001372,F0714,Fund
+41368536611055001373,F0714A,Fund 360° View / Manage Funds
+41368536611055001374,F0724,Fund Center Group
+41368536611055001375,F0715,Fund Group
+41368536611055001376,F0715A,Fund Group 360° View
+41368536611055001377,F0775,Funded Program
+41368536611055001378,F0775A,Funded Program 360° View / Manage Funded Programs
+41368536611055001379,F0729,Funded Program Group
+41368536611055001380,F0729A,Funded Program Group 360° View
+41368536611055001381,F0722,Funds Center
+41368536611055001382,F0722A,Funds Center 360° View / Manage Funds Centers
+41368536611055001383,F0724A,Funds Center Group 360° View
+41368536611055001384,F1743,Future Payables (S/4HANA)
+41368536611055001385,F0594,Future Payables (sFIN)
+41368536611055001386,F1744,Future Receivables (S/4HANA)
+41368536611055001387,F0604,Future Receivables (sFIN)
+41368536611055001388,F3081,FXU Application Helper
+41368536611055001389,F0129,G/L Account (ERP)
+41368536611055001390,F1727,G/L Account (S/4HANA)
+41368536611055001391,F1627,G/L Account (sFIN)
+41368536611055001392,F0130,G/L Accounting Document
+41368536611055001393,F1770,Gather Forecast Data
+41368536611055001394,F2445,General Ledger Overview
+41368536611055001395,F1829,Generate Intercompany Billing Request
+41368536611055001396,F0856,Generic Tools
+41368536611055001397,F2126,Get Bank Customer Overview
+41368536611055001398,F2126A,Get Bank Customer Overview (Version 2)
+41368536611055001399,F4158,Git-enabled CTS
+41368536611055001400,F3679,Global Purchasing Spend
+41368536611055001401,F0375,Goods Issue
+41368536611055001402,F2912,Goods Movement Analysis (Design Studio)
+41368536611055001403,F0376,Goods Receipt
+41368536611055001404,F0837,Grant
+41368536611055001405,F0837A,Grant 360° View
+41368536611055001406,F0838,Grant Group
+41368536611055001407,F0838A,Grant Group 360° View
+41368536611055001408,F5292,Grants Budget Alert
+41368536611055001409,F5370,Grants Budget Consumption Details
+41368536611055001410,F5153,Grants Budget Overview
+41368536611055001411,F5371,Grants Consumable Budget Details
+41368536611055001412,F4846,Grants Management Application Log
+41368536611055001413,F4847,Grants Management Job Scheduler
+41368536611055001414,F5293,Grants Open Commitments
+41368536611055001415,F0824,Gross Margin
+41368536611055001416,F3417,Gross Margin - Presumed/Actual
+41368536611055001417,F4061,Gross Non-Operated by Cost Object (Design Studio)
+41368536611055001418,F0882,Gross Weight of Inbound Delivery Items
+41368536611055001419,F0828,Gross-to-Net Sales
+41368536611055001420,F3800,Group Data Analysis (Design Studio)
+41368536611055001421,F4325,Group Data Analysis (SAC)
+41368536611055001422,F3801,Group Data Analysis - with Reporting Rules (Design Studio)
+41368536611055001423,F4324,Group Data Analysis With Reporting Rules (SAC)
+41368536611055001424,F4326,Group Financial Statements
+41368536611055001425,F4613,Group Reporting Master Data Reuse Library
+41368536611055001426,F3845,GST Business Processes Cockpit
+41368536611055001427,F3848,GST Input Service Distribution Insights
+41368536611055001428,F3847,GST Journal Voucher Insights
+41368536611055001429,F3849,GST Stock Transport Order Insights
+41368536611055001430,F3846,GST Subcontracting Documents Insights
+41368536611055001431,F4639,Hand Over Orders
+41368536611055001432,F4795,Hand Over Purchase Requisitions
+41368536611055001433,F2178,Harmonization Status
+41368536611055001434,F0131,House Bank (ERP)
+41368536611055001435,F1758,House Bank (S/4HANA)
+41368536611055001436,F1629,House Bank (sFIN)
+41368536611055001437,F0132,House Bank Account (ERP)
+41368536611055001438,F1759,House Bank Account (S/4HANA)
+41368536611055001439,F1630,House Bank Account (sFIN)
+41368536611055001440,F2450,IAM Information System
+41368536611055001441,F4474,IAM Key Figures
+41368536611055001442,F2662,ILM Data Destruction
+41368536611055001443,F0510,ILM Monitoring of Archiving  Jobs / ILM Monitoring of Archiving Jobs
+41368536611055001444,F3962,Impact of Monitoring Lists on Production
+41368536611055001445,F3963,Impact of Monitoring Lists on Sales
+41368536611055001446,F3961,Impact of Monitoring Lists on Suppliers
+41368536611055001447,F3002,Import Bank Services Billing Files
+41368536611055001448,F1432,Import Collection
+41368536611055001449,F3399,Import Compliance Requirements - Content Provider
+41368536611055001450,F3414,Import Compliance Requirements - Spreadsheet
+41368536611055001451,F3306,Import Consents from File
+41368536611055001452,F3924,Import Consolidation Master Data
+41368536611055001453,F2784,Import Data
+41368536611055001454,F2399,Import Data for Consolidation
+41368536611055001455,F4089,Import Data Quality Rules for Business Partners
+41368536611055001456,F4086,Import Data Quality Rules for Products
+41368536611055001457,F2323,Import Employees
+41368536611055001458,F4019,Import Extensibility Template
+41368536611055001459,F1711,Import Financial Plan Data
+41368536611055001460,F2092,Import Foreign Exchange Rates
+41368536611055001461,F3335,Import FS Item Mappings
+41368536611055001462,F3073,Import Group Journal Entries
+41368536611055001463,F2610,Import Market Data
+41368536611055001464,F3071,Import Master Data for Consolidation Fields
+41368536611055001465,F3930,Import Master Data Quality Rules
+41368536611055001466,F4181,Import Signatory Cards
+41368536611055001467,F3779,Import Statistical Key Figures Plan Data
+41368536611055001468,F3041,Import Supplier Invoices
+41368536611055001469,F0232,Inbound Delivery (ERP)
+41368536611055001470,F0232A,Inbound Delivery (S/4HANA)
+41368536611055001471,F3482,Incident Rate
+41368536611055001472,F2628,Incidents - Detailed Analysis
+41368536611055001473,F2964,Incoming Sales Orders - Predictive Accounting
+41368536611055001474,F0678,Incomplete Documents Technically Incomplete
+41368536611055001475,F5057,Initialize Credit Liability
+41368536611055001476,F2103,Injuries and Illnesses - Detailed Analysis
+41368536611055001477,F2657,Input VAT Deduction - China
+41368536611055001478,F2658,Input VAT Transfer - China
+41368536611055001479,F4008,Inspect Revenue Recognition Postings
+41368536611055001480,F0530,Inspect Safety Controls
+41368536611055001481,F2817,Inspection characteristic and Nonconformance / Planned inspection characteristic
+41368536611055001482,F0307,Inspection Lot (ERP)
+41368536611055001483,F0311,Inspection Method (ERP)
+41368536611055001484,F0311A,Inspection Method (S/4HANA)
+41368536611055001485,F0308,Inspection Operation (ERP)
+41368536611055001486,F2181,Inspection Operation (S/4HANA)
+41368536611055001487,F0309,Inspection Point (ERP)
+41368536611055001488,F0309A,Inspection Point (S/4HANA)
+41368536611055001489,F1819,Intercompany Balance Reconciliation
+41368536611055001490,F3527,Interest Run
+41368536611055001491,F4547,Interest Run for Security Deposits
+41368536611055001492,F0133,Internal Order (ERP)
+41368536611055001493,F1729,Internal Order (S/4HANA)
+41368536611055001494,F1631,Internal Order (sFIN)
+41368536611055001495,F0941A,Internal Orders - Actuals (Design Studio)
+41368536611055001496,F0948A,Internal Orders - Plan/Actual (Design Studio)
+41368536611055001497,F0935A,Internal Orders - Plan/Actual with Currency Translation (Design Studio)
+41368536611055001498,F0929A,Internal Orders - Plan/Actual YTD (Design Studio)
+41368536611055001499,F1613,Internal Projects
+41368536611055001500,F2838,Interunit Reconciliation - Group View (Design Studio)
+41368536611055001501,F2842,Interunit Reconciliation - Subsidiary View (Design Studio) / Interunit Reconciliation - Unit View (Design Studio)
+41368536611055001502,F3343,Inventory Balance Sheet Valuations
+41368536611055001503,F3805,Inventory KPI Analysis Reuse Library
+41368536611055001504,F1956,Inventory Turnover Analysis
+41368536611055001505,F4233,Investigation Overview
+41368536611055001506,F2739,Invoice List
+41368536611055001507,F0682,Invoice Price Change / Invoice Price Variance
+41368536611055001508,F1745,Invoice Processing Analysis (S/4HANA) / Invoice Processing Time (S/4HANA)
+41368536611055001509,F0748,Invoice Processing Time (sFIN)
+41368536611055001510,F2473,Invoicing Overview for Contract Accounts
+41368536611055001511,F1471,Itms w/Incompl. Creation of Pick Task
+41368536611055001512,F1728,Journal Entry (S/4HANA)
+41368536611055001513,F1628,Journal Entry (sFIN)
+41368536611055001514,F0956A,Journal Entry Analyzer (S/4HANA) - Design Studio
+41368536611055001515,F4498,JVA Cost Analysis
+41368536611055001516,F4499,JVA Finance Overview
+41368536611055001517,F0818,KPI Workspace
+41368536611055001518,F3390,Laytime and Demurrage
+41368536611055001519,F1056,LE Reuse Library
+41368536611055001520,F2283,Lease Contract
+41368536611055001521,F3035,Lease Contract Valuation
+41368536611055001522,F2926,Legacy Integration App for  Work Instruction
+41368536611055001523,F0677,License Blocked Documents
+41368536611055001524,F3654,License Compliance Digital Access
+41368536611055001525,F2957,Link Commission Trade Invoices
+41368536611055001526,F0512A,Liquidity Forecast
+41368536611055001527,F0512,Liquidity Forecast (SFIN)
+41368536611055001528,F0101,Liquidity Forecast (SoH)
+41368536611055001529,F0741A,Liquidity Forecast Details (Design Studio) / Liquidity Forecast Details (Overview) - Design Studio
+41368536611055001530,F3252,Liquidity Forecast Details - Overview (Design Studio)
+41368536611055001531,F0211,Liquidity Structure
+41368536611055001532,F2430,List Incomplete Sales Documents
+41368536611055001533,F2782,List Product
+41368536611055001534,F2714,List Sales Documents by Object Status
+41368536611055001535,F2715,Load ID
+41368536611055001536,F0533,Location
+41368536611055001537,F0534,Location Product
+41368536611055001538,F3531,Maintain Accounts Run
+41368536611055001539,F5198,Maintain ACM Contracts
+41368536611055001540,F5328,Maintain ACM Pricing
+41368536611055001541,F4160,Maintain Additional Texts for Registers
+41368536611055001542,F1813,Maintain Bill Of Material
+41368536611055001543,F1492,Maintain Business Roles
+41368536611055001544,F1303,Maintain Business Users
+41368536611055001545,F4911,Maintain Collaboration Users
+41368536611055001546,F1338,Maintain Communication Users
+41368536611055001547,F4347,Maintain Deleted Business Users
+41368536611055001548,F2225,Maintain Documents
+41368536611055001549,F3678,Maintain Dunning Notices
+41368536611055001550,F1306,Maintain Email Templates
+41368536611055001551,F2288,Maintain Employees
+41368536611055001552,F2288A,Maintain Employees V2
+41368536611055001553,F3505A,Maintain External Resources
+41368536611055001554,F4522,Maintain Master Data ID
+41368536611055001555,F1386,Maintain MRP Controllers
+41368536611055001556,F4907,Maintain Number of Units for UoP Depreciation
+41368536611055001557,F2907,Maintain Owner – Namespace Classification
+41368536611055001558,F2249,Maintain Parameter Effectivity
+41368536611055001559,F3650,Maintain Payment Blocks
+41368536611055001560,F4711,Maintain Picking Sequence
+41368536611055001561,F3445,Maintain PIRs
+41368536611055001562,F1260,Maintain Print Queues
+41368536611055001563,F3195,Maintain Protection Whitelists
+41368536611055001564,F3505,Maintain Resources
+41368536611055001565,F3397,Maintain SAP Cloud Platform Extensions
+41368536611055001566,F1421,Maintain Service Organizations
+41368536611055001567,F5320,Maintain Subclaims
+41368536611055001568,F2089,Maintain Virtual Accounts - Japan
+41368536611055001569,F0228,Maintenance Notification
+41368536611055001570,F0231,Maintenance Order
+41368536611055001571,F4603,Maintenance Order Costs
+41368536611055001572,F0229,Maintenance Plan
+41368536611055001573,F2828,Maintenance Planning Overview
+41368536611055001574,F3760,Make Bank Transfers - Create with Templates
+41368536611055001575,F5034,Manage Accidental Release Measures
+41368536611055001576,F3931,Manage Accruals Reuse Library
+41368536611055001577,F4428,Manage ACM Applications
+41368536611055001578,F4466,Manage ACM Settlements
+41368536611055001579,F5197,Manage ACM Trading Contract Snapshots
+41368536611055001580,F4380,Manage ACM Trading Contracts
+41368536611055001581,F2836,Manage Action Settings
+41368536611055001582,F2192,Manage Activities
+41368536611055001583,F1605,Manage Activity Types
+41368536611055001584,F1605A,Manage Activity Types (Version 2)
+41368536611055001585,F1637,Manage Address Screening Lists
+41368536611055001586,F1638,Manage Alerts
+41368536611055001587,F5163,Manage Alerts (CAR)
+41368536611055001588,F2487,Manage Allergen Groups
+41368536611055001589,F2493,Manage Allergens
+41368536611055001590,F2022,Manage Allocation Parameters
+41368536611055001591,F4523,Manage Allocation Tags
+41368536611055001592,F4028,Manage Allowance Definition Groups
+41368536611055001593,F4662,Manage Allowance Plans
+41368536611055001594,F4661,Manage Allowance Requests
+41368536611055001595,F2645,Manage Assessment Profiles
+41368536611055001596,F4621,Manage Asset Retirement Obligations
+41368536611055001597,F2409,Manage Assignments
+41368536611055001598,F4892,Manage Assortment Modules
+41368536611055001599,F4812,Manage Attachments
+41368536611055001600,F0770,Manage Automatic Payments / Schedule Payment Proposals
+41368536611055001601,F4973,Manage Bank Account Hierarchies
+41368536611055001602,F1366A,Manage Bank Accounts
+41368536611055001603,F4004,Manage Bank Chains
+41368536611055001604,F3185,Manage Bank Fee Conditions
+41368536611055001605,F4385,Manage Bank Messages
+41368536611055001606,F2469,Manage Bank Payment Blocks
+41368536611055001607,F2454,Manage Bank Payments
+41368536611055001608,F3555,Manage Bank Statement Reprocessing Rules
+41368536611055001609,F1564,Manage Bank Statements
+41368536611055001610,F2641,Manage Basic Compliance Data - Unpackaged Products
+41368536611055001611,F2230,Manage Bill of Materials
+41368536611055001612,F2404,Manage Billing Exceptions
+41368536611055001613,F2824,Manage Billing Plans
+41368536611055001614,F0600,Manage Budget
+41368536611055001615,F3632,Manage Budget Periods (Cloud version)
+41368536611055001616,F2762,Manage Budget Transfers
+41368536611055001617,F4172,Manage Budget Transfers (Cloud version)
+41368536611055001618,F4173,Manage Budget Transfers (Public Sector)
+41368536611055001619,F2562,Manage Business Partner Items
+41368536611055001620,F2340,Manage Business Rules
+41368536611055001621,F4099,Manage Business Solution Portfolios
+41368536611055001622,F2702,Manage Buyoff Cycle Templates
+41368536611055001623,F2701,Manage Buyoffs
+41368536611055001624,F4133,Manage Capabilities / Manage Capability
+41368536611055001625,F4137,Manage Capability Statement / Manage Capability Statements
+41368536611055001626,F4699,Manage Capability to FMPO Assignment
+41368536611055001627,F4698,Manage Capability to Job Assignment
+41368536611055001628,F3265,Manage Cash Concentration
+41368536611055001629,F3266,Manage Cash Pools
+41368536611055001630,F3293,Manage Catalog Item Recommendations
+41368536611055001631,F3149,Manage Catalog Items
+41368536611055001632,F2486,Manage Certificate Groups
+41368536611055001633,F3233,Manage Certificate Receipts
+41368536611055001634,F2373,Manage Certification Categories
+41368536611055001635,F2378,Manage Certifications
+41368536611055001636,F3405,Manage Change Activities
+41368536611055001637,F0670,Manage Change Requests
+41368536611055001638,F3406,Manage Change Requests (Management of Change)
+41368536611055001639,F3458,Manage Characteristic Groups
+41368536611055001640,F4337,Manage Characteristics As Custom Fields
+41368536611055001641,F1577,Manage Checkbooks
+41368536611055001642,F2349,Manage Clarification Cases
+41368536611055001643,F4708,Manage Collection Contact Persons
+41368536611055001644,F2946,Manage Collection Strategies
+41368536611055001645,F2516,Manage Commodity Codes
+41368536611055001646,F3514,Manage Commodity Derivative Order Request Brackets
+41368536611055001647,F3629,Manage Commodity Derivative Order Request Fill Packets
+41368536611055001648,F3229,Manage Commodity Derivative Order Request Fills
+41368536611055001649,F3352,Manage Commodity Derivative Order Requests
+41368536611055001650,F3213,Manage Commodity Subaccounts
+41368536611055001651,F4828,Manage Communication Groups
+41368536611055001652,F2338,Manage Compliance Checks
+41368536611055001653,F2632,Manage Compliance Purposes
+41368536611055001654,F5038,Manage Compliance Requirements
+41368536611055001655,F2526,Manage Compliance Scenario Tasks
+41368536611055001656,F2339,Manage Compliance Scenarios
+41368536611055001657,F4644,Manage Configuration Assignments
+41368536611055001658,F3307,Manage Consents
+41368536611055001659,F3733,Manage Consolidation Group Structure - Group View
+41368536611055001660,F3766,Manage Consolidation Group Structure - Unit View
+41368536611055001661,F4477,Manage Constraint Profiles
+41368536611055001662,F2724,Manage Consumer Loans
+41368536611055001663,F2724A,Manage Consumer Loans (Version 2)
+41368536611055001664,F3429,Manage Content from Data Provider - Commodity Codes
+41368536611055001665,F3582,Manage Content from Data Provider - Control Classes
+41368536611055001666,F3581,Manage Content from Data Provider - Customs Tariff Numbers
+41368536611055001667,F3856,Manage Content Security Policy
+41368536611055001668,F3758,Manage Contracts in Accounting
+41368536611055001669,F2810,Manage Control Charts
+41368536611055001670,F4037,Manage Control Cycles
+41368536611055001671,F2515,Manage Control Groupings
+41368536611055001672,F3094,Manage Control Implementation Tasks
+41368536611055001673,F3649,Manage Correction Rules
+41368536611055001674,F1443,Manage Cost Centers
+41368536611055001675,F1443A,Manage Cost Centers (Version 2)
+41368536611055001676,F4478,Manage Cost Profiles
+41368536611055001677,F1865,Manage Costing Runs - Estimated Costs
+41368536611055001678,F2791,Manage Countries under Embargo
+41368536611055001679,F3014,Manage Credit Memo Request Workflow / Manage Sales Document Workflows
+41368536611055001680,F1989,Manage Credit Memo Requests
+41368536611055001681,F2389,Manage Credit/Debit Memos
+41368536611055001682,F4408,Manage Creditworthiness
+41368536611055001683,F2597,Manage Current Accounts
+41368536611055001684,F2597A,Manage Current Accounts (Version 2)
+41368536611055001685,F3553,Manage Custom Hierarchy Type
+41368536611055001686,F2834,Manage Customer Balance Confirmations
+41368536611055001687,F4707,Manage Customer Contacts
+41368536611055001688,F1689,Manage Customer Down Payment Requests
+41368536611055001689,F0711,Manage Customer Line Items
+41368536611055001690,F2652,Manage Customer Returns - Refund
+41368536611055001691,F3122,Manage Customs Tariff Numbers
+41368536611055001692,F0617,Manage Data Aging Groups
+41368536611055001693,F0617A,Manage Data Aging Groups (Version 2)
+41368536611055001694,F4016,Manage Database Cache Configuration
+41368536611055001695,F1988,Manage Debit Memo Requests
+41368536611055001696,F3885,Manage Demand Influencing Factors
+41368536611055001697,F0849,Manage Depreciation Runs
+41368536611055001698,F1297,Manage Depreciation Runs (Version 2)
+41368536611055001699,F2247,Manage Detection Methods / Manage Predictive Detection Methods
+41368536611055001700,F2475,Manage Diet Groups
+41368536611055001701,F2490,Manage Diets
+41368536611055001702,F3697,Manage Direct Activity Allocation
+41368536611055001703,F0702,Manage Dispute Cases
+41368536611055001704,F4443,Manage Dispute Cases (FI-CA)
+41368536611055001705,F2733,Manage Documents
+41368536611055001706,F2826,Manage Documents - Trade Compliance
+41368536611055001707,F3245,Manage Duplicate Sales Documents
+41368536611055001708,F4657,Manage Earmarked Funds Documents
+41368536611055001709,F4779,Manage Ecological Information
+41368536611055001710,F2030,Manage Engineering Records
+41368536611055001711,F4043,Manage Excess Requirements
+41368536611055001712,F2062,Manage Excluded Terms
+41368536611055001713,F0250,Manage External Requirements
+41368536611055001714,F3085,Manage External Tax Postings
+41368536611055001715,F4849,Manage Financial Plan Data Reuse Library
+41368536611055001716,F1699,Manage Financial Statement Structures - China
+41368536611055001717,F4794,Manage Firefighting Measures
+41368536611055001718,F4510,Manage First Aid Measures
+41368536611055001719,F1684,Manage Fixed Assets
+41368536611055001720,F2759,Manage Flexible Hierarchies
+41368536611055001721,F4058,Manage Flexible Material Planning Object / Manage Flexible Material Planning Objects
+41368536611055001722,F4114,Manage Force Element - Authorized Materials / Manage Force Elements - Material Planner
+41368536611055001723,F4113,Manage Force Element - Capabilities / Manage Force Elements - Capability Planner
+41368536611055001724,F4115,Manage Force Element - Maintenance / Manage Force Elements - Maintenance Planner
+41368536611055001725,F4112,Manage Force Element / Manage Force Elements
+41368536611055001726,F4732,Manage Force Element to Account Assignment
+41368536611055001727,F4801,Manage Force Element to Command Assignment
+41368536611055001728,F4728,Manage Force Element to Cost Group Assignment
+41368536611055001729,F4921,Manage Force Element to Exercise Assignment
+41368536611055001730,F5205,Manage Force Element to Exercise Position Assignment
+41368536611055001731,F5203,Manage Force Element to Exercise Provider Assignment
+41368536611055001732,F4798,Manage Force Element to Exercise Rotation Assignment
+41368536611055001733,F4731,Manage Force Element to Master Cost Center Assignment
+41368536611055001734,F4800,Manage Force Element to Operation Assignment
+41368536611055001735,F5204,Manage Force Element to Operation Position Assignment
+41368536611055001736,F5202,Manage Force Element to Operation Provider Assignment
+41368536611055001737,F4775,Manage Force Element to Operation Rotation Assignment
+41368536611055001738,F4437,Manage Force Element to Position Organizational Assignment (included in Manage Force Element)
+41368536611055001739,F4433,Manage Force Element to Position Peacetime Assignment (included in Manage Force Element)
+41368536611055001740,F4436,Manage Force Element to Position Wartime Assignment (included in Manage Force Element)
+41368536611055001741,F4730,Manage Force Element to Profit Center Assignment
+41368536611055001742,F4729,Manage Force Element to Profit Group Assignment
+41368536611055001743,F4799,Manage Force Element to Technical Object Assignment
+41368536611055001744,F4797,Manage Force Element to WBS Assignment
+41368536611055001745,F1771,Manage Forecast Access
+41368536611055001746,F1769,Manage Forecast Projects
+41368536611055001747,F4916,Manage Freight Agreement RFQs
+41368536611055001748,F3635,Manage Freight Orders
+41368536611055001749,F3637,Manage Freight Units
+41368536611055001750,F3631,Manage Functional Areas (Cloud version)
+41368536611055001751,F3633,Manage Funds (Cloud version)
+41368536611055001752,F0731A,Manage G/L Account Master Data (Version 2)
+41368536611055001753,F2489,Manage GMO Groups
+41368536611055001754,F2488,Manage GMOs
+41368536611055001755,F3628,Manage Grouping Rules
+41368536611055001756,F3764,Manage Hazardous Substance Inventories
+41368536611055001757,F1797,Manage Hierarchy
+41368536611055001758,F2543,Manage High-Risk Countries
+41368536611055001759,F3372,Manage Hours Worked
+41368536611055001760,F1369,Manage House Banks
+41368536611055001761,F2302A,Manage ILM Object Groups (Version 2)
+41368536611055001762,F4601,Manage Import Customs Declarations
+41368536611055001763,F2224,Manage Imports for Master Data Quality / Manage Imports for Master Data Remediation
+41368536611055001764,F4758,Manage Incident Summary Reports
+41368536611055001765,F3091,Manage Incident Tasks
+41368536611055001766,F4759,Manage Incidents
+41368536611055001767,F1680,Manage Incoming Payment Files
+41368536611055001768,F2325,Manage Incoming VAT Invoices - China
+41368536611055001769,F2326,Manage Input VAT Declaration - China
+41368536611055001770,F4485,Manage Interest Runs
+41368536611055001771,F1604,Manage Internal Orders
+41368536611055001772,F0270,Manage Internal Requirements
+41368536611055001773,F2517,Manage Intrastat Service Codes
+41368536611055001774,F3092,Manage Investigation Step Tasks
+41368536611055001775,F2740,Manage Invoice Lists
+41368536611055001776,F1774,Manage Invoice Summary - Japan
+41368536611055001777,F4829,Manage JIS Calls and Reorder
+41368536611055001778,F4509,Manage JIT Calls for Supply to Production
+41368536611055001779,F4879,Manage JIT Delivery Sequence Groups
+41368536611055001780,F3103,Manage Journal Entries - Japan
+41368536611055001781,F3803,Manage Journal Entry Templates
+41368536611055001782,F4602,Manage JVA Output Items
+41368536611055001783,F0821,Manage KPI Associations
+41368536611055001784,F2211,Manage Label Sets
+41368536611055001785,F3969,Manage Launchpad Settings
+41368536611055001786,F2453,Manage Legal Documents
+41368536611055001787,F4966,Manage Liquidity Item Hierarchies
+41368536611055001788,F2634,Manage Loan Payoffs
+41368536611055001789,F2634A,Manage Loan Payoffs (Version 2)
+41368536611055001790,F0550,Manage Location Clusters
+41368536611055001791,F0550A,Manage Location Clusters (Version 2)
+41368536611055001792,F3089,Manage Location Subgroups
+41368536611055001793,F3404,Manage Locations
+41368536611055001794,F1681,Manage Lockbox Batches
+41368536611055001795,F5082,Manage Logistics - Supplier Items
+41368536611055001796,F2761,Manage Logos
+41368536611055001797,F4073,Manage Maintenance Backlog
+41368536611055001798,F4604,Manage Maintenance Notifications and Orders
+41368536611055001799,F3888,Manage Maintenance Planning Buckets
+41368536611055001800,F4027,Manage Major Assembly Projects
+41368536611055001801,F2021,Manage Market Units
+41368536611055001802,F3870,Manage Matching Assignments
+41368536611055001803,F3868,Manage Matching Documents
+41368536611055001804,F3211,Manage Material Based Compositions
+41368536611055001805,F4434,Manage Measures / Manage Organizational Measures
+41368536611055001806,F2986,Manage Memo Records
+41368536611055001807,F3722,Manage Meter Operator Contracts
+41368536611055001808,F4138,Manage Mission Essential Task / Manage Mission Essential Tasks
+41368536611055001809,F1682,Manage Modules
+41368536611055001810,F1682A,Manage Modules (Version 2)
+41368536611055001811,F2041,Manage NFe CTe Contingency
+41368536611055001812,F2341,Manage Notices of Withdrawal
+41368536611055001813,F2341A,Manage Notices of Withdrawal (Version 2)
+41368536611055001814,F2484,Manage Nutrient Groups
+41368536611055001815,F2483,Manage Nutrients
+41368536611055001816,F2398,Manage Object Certification Assignments
+41368536611055001817,F2398A,Manage Object Qualification Assignments
+41368536611055001818,F3403,Manage Objects
+41368536611055001819,F4339,Manage Order Bill Of Material
+41368536611055001820,F4567,Manage Organizational Changes
+41368536611055001821,F4124,Manage Organizational Structure
+41368536611055001822,F1578,Manage Outgoing Checks
+41368536611055001823,F1947,Manage Outgoing Excise Invoices
+41368536611055001824,F2279,Manage Output Items
+41368536611055001825,F2491,Manage Packages
+41368536611055001826,F4994,Manage Packing Instructions
+41368536611055001827,F2550,Manage Payment Advices
+41368536611055001828,F4629,Manage Payment Agreements
+41368536611055001829,F4039,Manage Payment Batches
+41368536611055001830,F0593,Manage Payment Blocks
+41368536611055001831,F1868,Manage Payment Media
+41368536611055001832,F4806,Manage Payment Plans
+41368536611055001833,F3734,Manage Payment Receipts
+41368536611055001834,F4837,Manage Payment Requisitions
+41368536611055001835,F4125,Manage Peacetime Structure
+41368536611055001836,F4102,Manage Performance Obligations
+41368536611055001837,F4655,Manage Personal Protection Measures
+41368536611055001838,F3808,Manage Personnel Settlement Documents
+41368536611055001839,F4820,Manage Phrase-Enabled Fields
+41368536611055001840,F1079,Manage PIRs
+41368536611055001841,F4170,Manage Planned Orders
+41368536611055001842,F3021,Manage Planning Configuration Sets
+41368536611055001843,F4697,Manage Planning Scenarios
+41368536611055001844,F4734,Manage Platform Codes
+41368536611055001845,F5208,Manage Position to Exercise Rotation Assignment
+41368536611055001846,F4672,Manage Position to FMPO Assignment
+41368536611055001847,F5209,Manage Position to Operation Rotation Assignment
+41368536611055001848,F4435,Manage Positions
+41368536611055001849,F2581,Manage Posting Period Variants
+41368536611055001850,F2293,Manage Posting Periods
+41368536611055001851,F4270,Manage Postponed Revenue Accounting Items
+41368536611055001852,F4274,Manage Preliminary Billing Document Workflows
+41368536611055001853,F2875,Manage Preliminary Billing Documents
+41368536611055001854,F5050,Manage Prepayment Agreements
+41368536611055001855,F4268,Manage Price Fixation Options
+41368536611055001856,F4475,Manage Procurement Schedules
+41368536611055001857,F2474,Manage Product Allocation Sequences
+41368536611055001858,F0829,Manage Product Attributes
+41368536611055001859,F0829A,Manage Product Attributes (Version 2)
+41368536611055001860,F4359,Manage Product Hierarchies
+41368536611055001861,F4240,Manage Product Hierarchy Assignments
+41368536611055001862,F2045,Manage Product Structures
+41368536611055001863,F3101,Manage Production Holds
+41368536611055001864,F4046,Manage Production Operator
+41368536611055001865,F2568,Manage Production Versions
+41368536611055001866,F1444,Manage Profit Centers
+41368536611055001867,F3516,Manage Profit Centers (Version 2)
+41368536611055001868,F2930,Manage Project Procurement
+41368536611055001869,F3859,Manage Project Rankings
+41368536611055001870,F2281,Manage Project Staffing
+41368536611055001871,F4710,Manage Promises to Pay
+41368536611055001872,F2053,Manage Promotional Offers
+41368536611055001873,F0623,Manage Publishing Groups For Global Market Research
+41368536611055001874,F1600,Manage Purchase Contracts
+41368536611055001875,F0842,Manage Purchase Orders
+41368536611055001876,F2179,Manage Purchase Scheduling Agreements / Manage Scheduling Agreement
+41368536611055001877,F0337,Manage Purchasing Categories / Purchasing Category
+41368536611055001878,F1982,Manage Purchasing Info Records
+41368536611055001879,F2478,Manage Pure Substances
+41368536611055001880,F2256A,Manage Quality Info Records
+41368536611055001881,F2914,Manage Quality Levels
+41368536611055001882,F3381,Manage Quality Tasks
+41368536611055001883,F2194,Manage Questionnaires
+41368536611055001884,F1877,Manage Quota Arrangements
+41368536611055001885,F2476,Manage Raw Substances
+41368536611055001886,F2482,Manage RDA Profiles
+41368536611055001887,F2477,Manage Real Substances
+41368536611055001888,F2865,Manage Reason Code Groups
+41368536611055001889,F2868,Manage Reason Codes
+41368536611055001890,F2210,Manage Recipes
+41368536611055001891,F4774,Manage Reconciliation Close
+41368536611055001892,F4531,Manage Reconciliation Key
+41368536611055001893,F1598,Manage Recurring Journal Entries
+41368536611055001894,F4312,Manage Recurring Supplier Invoices
+41368536611055001895,F4126,Manage Reference Force Element / Manage Reference Force Elements
+41368536611055001896,F2485,Manage Religious Certificates
+41368536611055001897,F5092,Manage Reprocessing List for Customer JIT Calls
+41368536611055001898,F4243,Manage Resource Groups
+41368536611055001899,F2276,Manage Resource Utilization
+41368536611055001900,F4636,Manage Responsibility Contexts
+41368536611055001901,F4637,Manage Responsibility Rules
+41368536611055001902,F3797,Manage Responsibility Rules For Recipient Determinaton
+41368536611055001903,F2845,Manage Restrictions for Debiting Current Account
+41368536611055001904,F2845A,Manage Restrictions for Debiting Current Account (Version 2)
+41368536611055001905,F4709,Manage Resubmissions
+41368536611055001906,F3883,Manage Revenue Contracts
+41368536611055001907,F4819,Manage Revenue Recognition Issues Util Library
+41368536611055001908,F3093,Manage Risk Assessment Tasks
+41368536611055001909,F2267,Manage Risk Assessments
+41368536611055001910,F2969,Manage Risk Identification Templates
+41368536611055001911,F4533,Manage Route Groups
+41368536611055001912,F4390,Manage Routes
+41368536611055001913,F4084,Manage Rule Mining for Business Partners
+41368536611055001914,F4085,Manage Rule Mining for Products
+41368536611055001915,F3988,Manage Safety Instruction Text Blocks
+41368536611055001916,F4425,Manage Safety Instructions - Equipment
+41368536611055001917,F4471,Manage Safety Instructions - Generic
+41368536611055001918,F2659,Manage Sales Channels
+41368536611055001919,F3480,Manage Sales Commissions for External Agents / Monitor External Sales Commissions
+41368536611055001920,F1851,Manage Sales Contracts
+41368536611055001921,F4646,Manage Sales Documents - Fashion / Manage Sales Orders - Fashion
+41368536611055001922,F2713,Manage Sales Documents with Customer-Expected Price
+41368536611055001923,F2370,Manage Sales Inquiries
+41368536611055001924,F2583,Manage Sales Item Proposals
+41368536611055001925,F1873,Manage Sales Orders
+41368536611055001926,F2712,Manage Sales Orders - Beta Version
+41368536611055001927,F0804,Manage Sales Orders - Services
+41368536611055001928,F2305,Manage Sales Orders without Charge
+41368536611055001929,F1852,Manage Sales Quotations
+41368536611055001930,F2313,Manage Savings Accounts
+41368536611055001931,F2313A,Manage Savings Accounts (Version 2)
+41368536611055001932,F3326,Manage Schedules / Schedule Maintenance Order Operations
+41368536611055001933,F3604,Manage Season Completeness
+41368536611055001934,F4415,Manage Security Deposits
+41368536611055001935,F5143,Manage Selection Variants
+41368536611055001936,F5158,Manage SEPA Mandates
+41368536611055001937,F5007,Manage Service Order Templates
+41368536611055001938,F3254,Manage Settlement Documents
+41368536611055001939,F4432,Manage Sharing Groups
+41368536611055001940,F4476,Manage Shelf Cost Profiles
+41368536611055001941,F2947,Manage Situation Types
+41368536611055001942,F2098,Manage Software Constraints
+41368536611055001943,F2442,Manage Source Data for Consolidation
+41368536611055001944,F1859,Manage Source Lists
+41368536611055001945,F3392,Manage Sources - SAP S/4HANA
+41368536611055001946,F3003,Manage Sources / Manage Sources - SAP Retail
+41368536611055001947,F0840,Manage Sources of Supply
+41368536611055001948,F0840A,Manage Sources of Supply (Version 2)
+41368536611055001949,F3391,Manage Sourcing Networks - SAP S/HANA
+41368536611055001950,F2530,Manage Sourcing Networks / Manage Sourcing Networks - SAP Retail
+41368536611055001951,F2586,Manage Sourcing Strategies
+41368536611055001952,F2213,Manage Specifications
+41368536611055001953,F4544,Manage Sponsored Classes
+41368536611055001954,F4545,Manage Sponsored Programs
+41368536611055001955,F2554,Manage Standard Texts
+41368536611055001956,F3915,Manage Statistical Key Figure Values
+41368536611055001957,F1603,Manage Statistical Key Figures
+41368536611055001958,F1603A,Manage Statistical Key Figures (Version 2)
+41368536611055001959,F4532,Manage Stops
+41368536611055001960,F5282,Manage Storage Class
+41368536611055001961,F4287,Manage Store Areas and Capacities
+41368536611055001962,F2481,Manage Stream Substances
+41368536611055001963,F4381,Manage Style Lists
+41368536611055001964,F3560,Manage Subscription Product-Specific Data
+41368536611055001965,F2578,Manage Substances Compliance
+41368536611055001966,F4406,Manage Substitution and Validation Rules / Manage Substitution/Validation Rules
+41368536611055001967,F4787,Manage Substitution Controls
+41368536611055001968,F4788,Manage Substitution Groups
+41368536611055001969,F4789,Manage Substitution Reasons
+41368536611055001970,F3781,Manage Summary Reports
+41368536611055001971,F2959,Manage Supplier Balance Confirmations
+41368536611055001972,F3034,Manage Supplier Compliance
+41368536611055001973,F1688,Manage Supplier Down Payment Requests
+41368536611055001974,F0712,Manage Supplier Line Items / Manage Vendor Line Items
+41368536611055001975,F1991,Manage Supplier Quotations
+41368536611055001976,F2542,Manage Suspicious Terms
+41368536611055001977,F2494,Manage Synchronization Units
+41368536611055001978,F2630,Manage Task List Templates
+41368536611055001979,F2496,Manage Task Lists
+41368536611055001980,F2397,Manage Tax Invoices - South Korea
+41368536611055001981,F3172,Manage Tax Items for Legal Reporting
+41368536611055001982,F4066,Manage Tax Payment Attributes
+41368536611055001983,F3077,Manage Team Hierarchies
+41368536611055001984,F4988,Manage Teams and Responsibilities - Asset Management
+41368536611055001985,F5134,Manage Teams and Responsibilities for Contract Accounting
+41368536611055001986,F3932,Manage Teams and Responsibilities For Journal Entry Verification - In General Ledger / Manage Teams and Responsibilities for General Journal Entry Verification
+41368536611055001987,F2193,Manage Templates
+41368536611055001988,F2157,Manage Term Mappings
+41368536611055001989,F2894,Manage Texts
+41368536611055001990,F2059,Manage Time Deposits
+41368536611055001991,F2059A,Manage Time Deposits (Version 2)
+41368536611055001992,F4600,Manage Tours
+41368536611055001993,F2394,Manage Unassigned Engineering Bill of Materials
+41368536611055001994,F2870,Manage Unassigned Manufacturing Bill of Materials
+41368536611055001995,F2374,Manage User Certification Assignments
+41368536611055001996,F2555,Manage User Groups
+41368536611055001997,F2829,Manage User Settings
+41368536611055001998,F4827,Manage User with Flexible Update Date
+41368536611055001999,F3812,Manage User-Defined Criteria for Supplier Evaluation
+41368536611055002000,F4288,Manage Userlist
+41368536611055002001,F4244,Manage Users
+41368536611055002002,F4128,Manage Wartime Structure
+41368536611055002003,F3289,Manage Work Center Capacity
+41368536611055002004,F4044,Manage Work Center Groups
+41368536611055002005,F2821,Manage Work Center Queue
+41368536611055002006,F1045,Manage Work Order Deferment Events
+41368536611055002007,F2705,Manage Workflow for Purchase Requisitions
+41368536611055002008,F3067,Manage Workflow Scenarios
+41368536611055002009,F3402,Manage Workflow Template for Change Records
+41368536611055002010,F2787,Manage Workflow Templates
+41368536611055002011,F5297,Manage Workflow Templates for Legal Contract
+41368536611055002012,F3680,Manage Workflows - Condition Contracts
+41368536611055002013,F4021,Manage Workflows - Personnel Settlement Documents / Manage Workflows for Personnel Settlement Documents
+41368536611055002014,F4993,Manage Workflows - Reconciliation Close Requests
+41368536611055002015,F3681,Manage Workflows - Settlement Documents / Manage Workflows for Settlement Documents
+41368536611055002016,F5110,Manage Workflows /  Advanced Compliance Reporting
+41368536611055002017,F3316,Manage Workflows for Centrally Managed Purchase Orders
+41368536611055002018,F3794,Manage Workflows for Centrally Managed Purchase Requisitions
+41368536611055002019,F5135,Manage Workflows for FI-CA Documents
+41368536611055002020,F2720,Manage Workflows for General Journal Entry Verification / Manage Workflows for Journal Entry Verification - In General Ledger
+41368536611055002021,F5298,Manage Workflows for Legal Contract
+41368536611055002022,F4989,Manage Workflows for Maintenance Orders
+41368536611055002023,F5142,Manage Workflows for Payment Agreements
+41368536611055002024,F3043,Manage Workflows for Purchase Contracts
+41368536611055002025,F3625,Manage Workflows for Purchase Order Accruals Review
+41368536611055002026,F2872,Manage Workflows for Purchase Orders
+41368536611055002027,F4977,Manage Workflows for Quality Task Processing
+41368536611055002028,F3232,Manage Workflows for Request for Quotations
+41368536611055002029,F3044,Manage Workflows for Scheduling Agreements
+41368536611055002030,F2873,Manage Workflows for Supplier Invoices
+41368536611055002031,F2704,Manage Workflows for Supplier Quotation
+41368536611055002032,F4548,Manage Workflows-Process Rejected Payments
+41368536611055002033,F1642,Manage Worklist Variants
+41368536611055002034,F1709,Manage Your Test Processes
+41368536611055002035,F3881,Manual Fulfillment
+41368536611055002036,F2356,Manufacturing Planning and Execution Reuse Library for Popovers / Reuse Library for Popovers
+41368536611055002037,F5319,Map Data
+41368536611055002038,F3899,Map Extensibility Fields
+41368536611055002039,F3906,Map Format Data
+41368536611055002040,F3333,Map FS Items with G/L Accounts
+41368536611055002041,F2685,Map Payment Format Data
+41368536611055002042,F3554,Map Treasury Correspondence Format Data
+41368536611055002043,F2132,Margin Analysis
+41368536611055002044,F0839,Margin Analysis (Simple Finance)
+41368536611055002045,F0688,Mark-to-Market Valuation
+41368536611055002046,F3941,Market Data Overview
+41368536611055002047,F0960A,Market Segments - Actuals (Cloud) - Design Studio
+41368536611055002048,F0943A,Market Segments - Actuals (Design Studio)
+41368536611055002049,F0925A,Market Segments - Plan/Actual (Design Studio)
+41368536611055002050,F0937A,Market Segments - Plan/Actual with Currency Translation (Design Studio)
+41368536611055002051,F0931A,Market Segments - Plan/Actual YTD (Design Studio)
+41368536611055002052,F2888,Market Segments - Plan/Actuals (Cloud) - Design Studio
+41368536611055002053,F3653,Mass Adjust Buffers
+41368536611055002054,F2233,Mass Change Events
+41368536611055002055,F5281,Mass Change of Credit Memo Requests
+41368536611055002056,F5279,Mass Change of Customer Returns
+41368536611055002057,F5280,Mass Change of Debit Memo Requests
+41368536611055002058,F5275,Mass Change of Sales Contracts
+41368536611055002059,F5324,Mass Change of Sales Documents - Reuse Component
+41368536611055002060,F5211,Mass Change of Sales Orders
+41368536611055002061,F5278,Mass Change of Sales Scheduling Agreements
+41368536611055002062,F3792,Mass Changes to Central Purchase Contracts
+41368536611055002063,F2669,Mass Changes to Purchase Contracts
+41368536611055002064,F2593,Mass Changes to Purchase Orders
+41368536611055002065,F2594,Mass Changes to Purchase Requisitions
+41368536611055002066,F2668,Mass Changes to Purchase Scheduling Agreements / Mass Changes to Scheduling Agreements
+41368536611055002067,F2667,Mass Changes to Purchasing Info Records
+41368536611055002068,F4576,Mass Enrichment of Business Partners
+41368536611055002069,F2825,Mass Maintenance of Products (DD)
+41368536611055002070,F2774,Mass Schedule Maintenance Plans
+41368536611055002071,F4929,Mass Schedule Maintenance Plans - Service
+41368536611055002072,F4383,Mass Upload Utility
+41368536611055002073,F1047,Master Data Governance Consolidation
+41368536611055002074,F1047A,Master Data Governance Consolidation (Version 2)
+41368536611055002075,F1686,"Master Data Governance, Mass Processing"
+41368536611055002076,F3118,Master Data Process Overview for Business Partner
+41368536611055002077,F3428,Master Data Process Overview for Financial Data
+41368536611055002078,F3119,Master Data Process Overview for Product
+41368536611055002079,F2519,Master Data Quality Overview Products / Master Data Remediation Overview Products
+41368536611055002080,F5194,Master Data Quality Product Analytics
+41368536611055002081,F3820,Master Data Quality Rules
+41368536611055002082,F1687,Master Data Quality Worklist for Products / Master Data Remediation Worklist for Products
+41368536611055002083,F0310,Master Inspection Characteristic
+41368536611055002084,F0831,Match Placeholders
+41368536611055002085,F0831A,Match Placeholders (Version 2)
+41368536611055002086,F0338,Material
+41368536611055002087,F0540A,Material Component
+41368536611055002088,F1971,Material Component Overview
+41368536611055002089,F1807,Material Document
+41368536611055002090,F1422A,Material Inventory Values - Balance Summary (Design Studio)
+41368536611055002091,F1423A,Material Inventory Values - Line Items (Design Studio)
+41368536611055002092,F1440A,Material Inventory Values - Rounding Differences (Design Studio)
+41368536611055002093,F0338A,Material Master
+41368536611055002094,F1063,Material Master Reuse Component
+41368536611055002095,F0378,Material Movement
+41368536611055002096,F3294,Material Price Variance
+41368536611055002097,F2035,Material Scrap
+41368536611055002098,F2214,Material Where Used List for BOMs
+41368536611055002099,F1252,MDG Address Library to approve customer/supplier
+41368536611055002100,F0385,Measurement Document
+41368536611055002101,F0384,Measuring Point
+41368536611055002102,F5267,Message Change Log
+41368536611055002103,F4516,Message Monitoring
+41368536611055002104,F5100,Migrate Attachments for Dispute Cases
+41368536611055002105,F0286A,Milestone
+41368536611055002106,F1975,Milestone Overview
+41368536611055002107,F0305,Missing Parts for Project
+41368536611055002108,F0222,Mitigation Control
+41368536611055002109,F4049,Mobile Event Data Capture
+41368536611055002110,F2781,Mobile Ticket Data Capture
+41368536611055002111,F4673,Model Production Network
+41368536611055002112,F4896,Model Structure
+41368536611055002113,F4105,Monitor Alignment
+41368536611055002114,F2243,Monitor Approved Chemicals
+41368536611055002115,F0510A,Monitor Archiving  Jobs / Monitor Archiving Jobs
+41368536611055002116,F4891,Monitor Assortment Postprocessing Errors
+41368536611055002117,F4317,Monitor Auto Renewal Logs
+41368536611055002118,F3001,Monitor Bank Fees
+41368536611055002119,F4310,Monitor Calculation Errors - Freight Orders
+41368536611055002120,F1523,Monitor Capacity Utilization
+41368536611055002121,F2900,Monitor Capacity Utilization - Object Page
+41368536611055002122,F4618,Monitor Compatibility of Central Procurement Operations
+41368536611055002123,F2492,Monitor Compliance Scenario Runs
+41368536611055002124,F3757,Monitor Contracts
+41368536611055002125,F2106,Monitor Control Status
+41368536611055002126,F2954,Monitor Customer Condition Contracts
+41368536611055002127,F4749,Monitor Customer JIT Calls Component Groups
+41368536611055002128,F2436,Monitor Data
+41368536611055002129,F0618,Monitor Data Aging Objects
+41368536611055002130,F0618A,Monitor Data Aging Objects (Version 2)
+41368536611055002131,F3053,Monitor Data Synchronization
+41368536611055002132,F3223,Monitor Destruction of Personnel Number
+41368536611055002133,F4943,Monitor Disconnection Requests
+41368536611055002134,F2527,Monitor EHS Tasks
+41368536611055002135,F3054,Monitor Employee Imports
+41368536611055002136,F4908,Monitor Engineering Snapshots
+41368536611055002137,F4368,Monitor Execution - Freight Orders
+41368536611055002138,F0246,Monitor External Requirements
+41368536611055002139,F3303,Monitor GR/IR Account Reconciliation
+41368536611055002140,F0263,Monitor Internal Requirements
+41368536611055002141,F2565,Monitor Issue Status
+41368536611055002142,F4581,Monitor JIT Call Component Groups
+41368536611055002143,F4453,Monitor JIT Calls Components
+41368536611055002144,F5062,Monitor Job Scheduling for Supplier Evaluation Score History
+41368536611055002145,F2144,Monitor Jobs
+41368536611055002146,F3495,Monitor Log for Service Entry Sheet Generation
+41368536611055002147,F5191,Monitor Mass Changes (PPM)
+41368536611055002148,F3332,Monitor Mass Changes / Monitor Mass Changes - Purchase Orders
+41368536611055002149,F5210,Monitor Mass Changes of Sales Documents
+41368536611055002150,F4930,Monitor Mass Scheduling Logs - Service
+41368536611055002151,F4194,Monitor Master Data Distribution - to SAP CC
+41368536611055002152,F0247,Monitor Material Coverage / Monitor Material Coverage - Net Segments / Monitor Material Coverage - Net Segments (obsolete) / Monitor Material Shortages
+41368536611055002153,F1435,Monitor Message Flows
+41368536611055002154,F3031,Monitor Missing Time Notifications
+41368536611055002155,F2300,Monitor NF-e
+41368536611055002156,F4752,Monitor Open Work Items from Change Requests for Business Partners
+41368536611055002157,F4753,Monitor Open Work Items from Change Requests for Financial Master Data
+41368536611055002158,F4751,Monitor Open Work Items from Change Requests for Products
+41368536611055002159,F4009,Monitor Personnel Settlement Documents
+41368536611055002160,F3828,Monitor Predictive Accounting
+41368536611055002161,F5051,Monitor Prepayment Agreements
+41368536611055002162,F4399,Monitor Procurement Analytics Operations
+41368536611055002163,F2195,Monitor Procurement-Related Tasks / Monitor Tasks
+41368536611055002164,F3476,Monitor Product Allocation Characteristic Value Combinations
+41368536611055002165,F3477,Monitor Product Allocation Order Items
+41368536611055002166,F3475,Monitor Product Allocation Periods
+41368536611055002167,F2031,Monitor Project Progress
+41368536611055002168,F3088,Monitor Projects
+41368536611055002169,F3318,Monitor Projects - Cost Prediction
+41368536611055002170,F2423,Monitor Purchase Contract Items
+41368536611055002171,F2421,Monitor Purchase Contract Items By Account Assignment / Purchase Contract Items By Account Assignment
+41368536611055002172,F2877,Monitor Purchase Order Down Payments
+41368536611055002173,F2420,Monitor Purchase Order Items by Account Assignment / Purchase Order Items by Account Assignment
+41368536611055002174,F3676,Monitor Purchase Order Items Centrally
+41368536611055002175,F2424,Monitor Purchase Requisition Items
+41368536611055002176,F2422,Monitor Purchase Requisition Items By Account Assignment / Purchase Requisition Items By Account Assignment
+41368536611055002177,F2988,Monitor Purchasing Info Records Price History
+41368536611055002178,F3024,Monitor Raw Material Compliance
+41368536611055002179,F3626,Monitor Release Check Runs
+41368536611055002180,F2425,Monitor Request For Quotation Items / Monitor Request for Quotation Items
+41368536611055002181,F1649,Monitor Responses
+41368536611055002182,F5014,Monitor Revenue Contracts
+41368536611055002183,F1953,Monitor Risks
+41368536611055002184,F4558,Monitor Route Data
+41368536611055002185,F4578,Monitor Royalty Condition Contracts
+41368536611055002186,F4109,Monitor Safety Relevant Changes
+41368536611055002187,F5063,Monitor Schedule Extraction of Purchase Orders for Central Procurement Analytics
+41368536611055002188,F4309,Monitor SDS Shipments
+41368536611055002189,F3603,Monitor Season Completeness
+41368536611055002190,F4165,Monitor Settlement Documents
+41368536611055002191,F4201,Monitor Shop Floor Master Data
+41368536611055002192,F3264,Monitor Situations
+41368536611055002193,F3411,Monitor Supplier Condition Contracts
+41368536611055002194,F2359,Monitor Supplier Confirmations
+41368536611055002195,F4079,Monitor Supplier Invoices Centrally
+41368536611055002196,F4375,Monitor Supply Assignment Demand
+41368536611055002197,F3684,Monitor Supply Assignment Runs
+41368536611055002198,F1565,Monitor Systems
+41368536611055002199,F2046,Monitor User Experience
+41368536611055002200,F4231,Move Products - Worklist
+41368536611055002201,F3997,Move Products with RFID
+41368536611055002202,F4157,Multi Level Simulation View
+41368536611055002203,F2133,Multiproject Overview
+41368536611055002204,F0002,My Accounts
+41368536611055002205,F2697,My Action Plans
+41368536611055002206,F3004,My Addresses (Fiori 2.0)
+41368536611055002207,F1657,My Advisees
+41368536611055002208,F2038,My Allocation Plans
+41368536611055002209,F2592,My Allocation Results
+41368536611055002210,F2039,My Allocation Workload
+41368536611055002211,F0005,My Appointments
+41368536611055002212,F5266,My Area of Responsibility - Work Center Groups
+41368536611055002213,F4796,My Area of Responsibility / My Area of Responsibility - MRP Controller
+41368536611055002214,F1567B,My Assortment Lists (Version 4)
+41368536611055002215,F3112,My Bank Details (Fiori 2.0)
+41368536611055002216,F0396,My Benefits
+41368536611055002217,F1316,My Benefits (Version 2)
+41368536611055002218,F1316A,My Benefits (Version 3) / My Benefits (Version 3/Fiori 2.0)
+41368536611055002219,F3718,My Benefits Enrollment
+41368536611055002220,F1428,My Business Requirements
+41368536611055002221,F3613,My Career (Registered Candidate)
+41368536611055002222,F3612,My Career (Unregistered Candidate)
+41368536611055002223,F2166,My Checklist Items
+41368536611055002224,F2244,My Chemical Approvals
+41368536611055002225,F0709,My Commercial Projects
+41368536611055002226,F4001,My Commitment Aging
+41368536611055002227,F3113,My Communication Data (Fiori 2.0)
+41368536611055002228,F2344,My Compliance Check Results
+41368536611055002229,F3063,My Compliance Tasks
+41368536611055002230,F0004,My Contacts (CRM)
+41368536611055002231,F2001,My Control Implementations
+41368536611055002232,F0776,My Courses
+41368536611055002233,F2435,My Dunning Proposals
+41368536611055002234,F3061,My Exams
+41368536611055002235,F3472,My expiring Grant
+41368536611055002236,F3114,My External Organizations / My External Organizations (Fiori 2.0)
+41368536611055002237,F3115,My Family Members (Fiori 2.0)
+41368536611055002238,F4490,My Fees
+41368536611055002239,F2682,My Findings
+41368536611055002240,F4938,My Forms
+41368536611055002241,F3468,My Grant Budget
+41368536611055002242,F3470,My Grant Budget Alert
+41368536611055002243,F3471,My Grants Awarded Budget Amount
+41368536611055002244,F3462,My Grants Cost Share Rate
+41368536611055002245,F3461,My Grants open Commitments Amounts
+41368536611055002246,F3464,My Grants Total Contributions
+41368536611055002247,F3465,My Grants Total Overhead
+41368536611055002248,F3463,My Grants Total Spending
+41368536611055002249,F5042,My Inbox - Approve Credit Memo Requests
+41368536611055002250,F5053,My Inbox - Approve Customer Returns
+41368536611055002251,F5043,My Inbox - Approve Preliminary Billing Documents
+41368536611055002252,F0400A,My Inbox - Approve Purchase Contracts
+41368536611055002253,F0402A,My Inbox - Approve Purchase Order
+41368536611055002254,F5041,My Inbox - Approve Sales Orders
+41368536611055002255,F5432,My Inbox - Approve Sales Orders without Charge
+41368536611055002256,F5044,My Inbox - Approve Sales Quotations
+41368536611055002257,F2446,My Inbox - Approve Service Entry Sheets
+41368536611055002258,F0545A,My Inbox - Approve Supplier Invoice
+41368536611055002259,F3328,My Inbox - Approve Timesheets
+41368536611055002260,F0410A,My Inbox - Approve Travel Expenses
+41368536611055002261,F0411A,My Inbox - Approve Travel Requests
+41368536611055002262,F2953,My Inbox - Maintenance Management
+41368536611055002263,F3517,My Inbox - Review Purchase Order Accruals
+41368536611055002264,F5136,My Inbox for FI-CA
+41368536611055002265,F2797,My Inbox for Manage Bank Accounts
+41368536611055002266,F5121,My Inbox for Payment Items (China)
+41368536611055002267,F4546,My Inbox-Process Rejected Payments
+41368536611055002268,F1353,My Incidents
+41368536611055002269,F3116,My Internal Data (Fiori 2.0)
+41368536611055002270,F0014,My Leads
+41368536611055002271,F0394,My Leave Requests
+41368536611055002272,F1311,My Leave Requests (Version 2)
+41368536611055002273,F1311A,My Leave Requests (Version 3/Fiori 2.0)
+41368536611055002274,F5104,My Maintenance Jobs
+41368536611055002275,F3729,My Medical Information (Fiori 2.0)
+41368536611055002276,F2396,My Nomination Tickets
+41368536611055002277,F2231,My Nominations
+41368536611055002278,F0006,My Notes
+41368536611055002279,F1611,My Open Worklists
+41368536611055002280,F1611A,My Open Worklists (Version 2)
+41368536611055002281,F0012,My Opportunities
+41368536611055002282,F0830A,My Option Plans (Version 2)
+41368536611055002283,F0830B,My Option Plans (Version 3)
+41368536611055002284,F0395,My Paystubs
+41368536611055002285,F1313,My Paystubs (Version 2)
+41368536611055002286,F1313A,My Paystubs (Version 3/Fiori 2.0)
+41368536611055002287,F3117,My Personal Data (Fiori 2.0)
+41368536611055002288,F1856,My Personal Details
+41368536611055002289,F3129,My Profile (Fiori 2.0)
+41368536611055002290,F0598,My Projects (Internal Orders)
+41368536611055002291,F2086,My Projects - Critical
+41368536611055002292,F2830,My Projects - Detailed Status
+41368536611055002293,F3376,My Projects - Key Figures
+41368536611055002294,F2087,My Projects - Planned
+41368536611055002295,F1876,My Projects - Project Manager
+41368536611055002296,F2945,My Projects - Steering Committee
+41368536611055002297,F2088,My Projects – Active
+41368536611055002298,F2090,My Projects – As a Substitute
+41368536611055002299,F2085,My Projects – Upcoming Milestones
+41368536611055002300,F0547B,My Purchasing Document Items
+41368536611055002301,F0547,My Purchasing Document Items (ERP)
+41368536611055002302,F0547A,My Purchasing Document Items (S/4HANA)
+41368536611055002303,F0317,My Quality Tasks
+41368536611055002304,F3719,My Queries - Enterprise Search
+41368536611055002305,F0028,My Quotation Pipeline
+41368536611055002306,F0025,My Quotations
+41368536611055002307,F3109,My Recipe Overview
+41368536611055002308,F4940,My Reporting (Fiori 2.0)
+41368536611055002309,F0789,My Results
+41368536611055002310,F1999,My Risk Assessment Projects
+41368536611055002311,F2200,My Sales Overview
+41368536611055002312,F2099,My SAP EarlyWatch Alert Reports
+41368536611055002313,F1371A,My Sent Requests (Version 2)
+41368536611055002314,F1308,My Services
+41368536611055002315,F0407,My Shopping Cart
+41368536611055002316,F4154,My Situations
+41368536611055002317,F0393,My Spend
+41368536611055002318,F0366,My Spend (Version 2)
+41368536611055002319,F4674,My Store Overview
+41368536611055002320,F0003,My Tasks (CRM)
+41368536611055002321,F2150,My Tasks (PPM)
+41368536611055002322,F4941,My Team
+41368536611055002323,F1309,My Team Calendar
+41368536611055002324,F1309A,My Team Calendar (Version 2/Fiori 2.0)
+41368536611055002325,F2117,My Tickets
+41368536611055002326,F1506,My Time Events
+41368536611055002327,F1506A,My Time Events (Version 2/Fiori 2.0)
+41368536611055002328,F3430,My Time Statements
+41368536611055002329,F0397,My Timesheet
+41368536611055002330,F1312,My Timesheet (Version 2)
+41368536611055002331,F3074,My Timesheet (Version 3 / Fiori 2.0) / My Timesheet (Version 3) / My Timesheet (Version 3/Fiori 2.0)
+41368536611055002332,F0891,My Timetable
+41368536611055002333,F4553,My Tours
+41368536611055002334,F0584,My Travel and Expenses
+41368536611055002335,F0409,My Travel Requests
+41368536611055002336,F0368,My Unusual Items
+41368536611055002337,F3499,My Work Queue
+41368536611055002338,F1641,My Worklists
+41368536611055002339,F0823,Net Margin
+41368536611055002340,F0194,Net Margin Results
+41368536611055002341,F0439,Net Position
+41368536611055002342,F0825,Net Sales
+41368536611055002343,F0288,Network (ERP)
+41368536611055002344,F0288A,Network (S/4HANA)
+41368536611055002345,F0289,Network Activity (ERP)
+41368536611055002346,F0289A,Network Activity (S/4HANA)
+41368536611055002347,F1970,Network Activity Overview
+41368536611055002348,F1973,Network Overview
+41368536611055002349,F2523,New Versus Solved Disputes
+41368536611055002350,F1467,No. of Deliv. for Wave Pick Itms
+41368536611055002351,F0880,No. of Inbound Deliveries
+41368536611055002352,F0881,No. of Inbound Delivery Items
+41368536611055002353,F0648,No. of Outbound Deliveries
+41368536611055002354,F0646,No. of Outbound Delivery Items
+41368536611055002355,F1464,No. of Wave Pick Items
+41368536611055002356,F2716,Nomination
+41368536611055002357,F0571,Non Managed Spend / Non- Managed Spend / Non-Managed Spend / Non-managed Spend
+41368536611055002358,F3583,Nonconformance Detailed Analytics
+41368536611055002359,F2067,Notes
+41368536611055002360,F2220,Notes for Application Object (ReuseLibary) / Notes for Application Object (ReuseLibrary)
+41368536611055002361,F2556,Notify Missing Times
+41368536611055002362,F3483,Number of Recordable Cases
+41368536611055002363,F2140,Nursing Rounds
+41368536611055002364,F0386,Object Link
+41368536611055002365,F0572,Off-Contract Spend / Off-contract Spend
+41368536611055002366,F3349,Offer Content Assignment
+41368536611055002367,F3701,Omitted Tasks
+41368536611055002368,F0759,On-Time Performance Arrival
+41368536611055002369,F0758,On-Time Performance Departure
+41368536611055002370,F0757,On-Time Performance POD
+41368536611055002371,F0552,Open Access Requests
+41368536611055002372,F0606,Open Disputes (sFIN)
+41368536611055002373,F1752,Open Disputes / Open Disputes (S/4HANA)
+41368536611055002374,F3772,Open Item Evaluation Run
+41368536611055002375,F0590,Open Orders - Total Orders Overview
+41368536611055002376,F0588,Open Orders -Total Orders By Status
+41368536611055002377,F0806,Open Posting Periods
+41368536611055002378,F0343,Open Purchase Orders / Overdue Purchase Order Items
+41368536611055002379,F0306,Open Reservations for Project
+41368536611055002380,F2034,Operation Scrap
+41368536611055002381,F1662A,Operational Supplier Evaluation (Version 2)
+41368536611055002382,F2901,Operations List
+41368536611055002383,F0404,Order from Requisitions
+41368536611055002384,F0752,Order Products
+41368536611055002385,F4663,Order to Cash Dashboard
+41368536611055002386,F2242,Order-to-Cash Performance - Overview
+41368536611055002387,F2005,Order-to-Cash Performance / Order-to-Cash Performance Monitor
+41368536611055002388,F2006,Order-to-Cash Performance Monitor - Time Series
+41368536611055002389,F2886,Orders - Plan/Actuals (Cloud) - Design Studio
+41368536611055002390,F4868,Organizational Change Report – Master Data
+41368536611055002391,F4720,Organizational Changes - Application Logs
+41368536611055002392,F0867,Outbound Deliveries
+41368536611055002393,F0233,Outbound Delivery (ERP)
+41368536611055002394,F0233A,Outbound Delivery (S/4HANA)
+41368536611055002395,F1247,Output Control Reuse Component
+41368536611055002396,F4586,Output Management Print Reuse Library
+41368536611055002397,F2019,Overall Supplier Evaluation
+41368536611055002398,F1470,Overdue Completion of Wave Pick Tasks
+41368536611055002399,F2347,Overdue Materials - Goods Receipt Blocked Stock
+41368536611055002400,F0302,Overdue Network Activities
+41368536611055002401,F0655,Overdue Outbound Deliveries
+41368536611055002402,F0643,Overdue Outbound Delivery Items
+41368536611055002403,F1746,Overdue Payables (S/4HANA)
+41368536611055002404,F0687,Overdue Payables (sFIN)
+41368536611055002405,F0298,Overdue Project Milestones
+41368536611055002406,F0299,Overdue Project PO Items
+41368536611055002407,F1747,Overdue Receivables (S/4HANA)
+41368536611055002408,F0597,Overdue Receivables (sFIN)
+41368536611055002409,F2539,Overdue Receivables by Risk Class
+41368536611055002410,F2540,Overdue Receivables in Dispute
+41368536611055002411,F0304,Overdue WBS Elements
+41368536611055002412,F2769,Overview Inventory Management
+41368536611055002413,F2416,Overview Inventory Processing
+41368536611055002414,F4515,Overview Message Monitoring
+41368536611055002415,F0784,Overview of Commercial Projects
+41368536611055002416,F3933,Overview of JIT Supply To Customer
+41368536611055002417,F3020,Overview Plant Management
+41368536611055002418,F0958A,P&L - Actuals (Cloud) - Design Studio
+41368536611055002419,F0945A,P&L - Actuals (Design Studio)
+41368536611055002420,F1710A,P&L - Plan/Actual (Cloud) - Design Studio
+41368536611055002421,F0927A,P&L - Plan/Actual (Design Studio)
+41368536611055002422,F0939A,P&L - Plan/Actual with Currency Translation (Design Studio)
+41368536611055002423,F0933A,P&L - Plan/Actual YTD (Design Studio)
+41368536611055002424,F2859,P&L by Function of Expense - By Consolidation Units (Design Studio)
+41368536611055002425,F2999,P&L by Function of Expense - Year Comparison (Design Studio)
+41368536611055002426,F2864,P&L by Nature of Expense -  By Consolidation Units (Design Studio)
+41368536611055002427,F2997,P&L by Nature of Expense - By Functional Areas (Design Studio)
+41368536611055002428,F2998,P&L by Nature of Expense - Year Comparison (Design Studio)
+41368536611055002429,F3738,Pack Warehouse Stock
+41368536611055002430,F4060,Partner Billing (Design Studio)
+41368536611055002431,F4064,Partner Net by Cost Object (Design Studio)
+41368536611055002432,F4885,Parts Per Million
+41368536611055002433,F3705,Payment Factory Component for MyInbox
+41368536611055002434,F3786,Payment Order Reversal Run
+41368536611055002435,F3529,Payment Run / Debit Memo Run
+41368536611055002436,F0693A,Payment Statistics (S/4HANA)
+41368536611055002437,F0693,Payment Statistics (sFIN)
+41368536611055002438,F4040,Payments Analyzer
+41368536611055002439,F1468,Pct. of Compl. Wave Pick Item Tasks
+41368536611055002440,F1382,People Profile
+41368536611055002441,F2822,Perform Operation
+41368536611055002442,F2898,Perform Operation Activity
+41368536611055002443,F1843,Perform Store Walk-Through
+41368536611055002444,F3424,Periodic Billing and Invoicing Analysis
+41368536611055002445,F2709,Periodic Billing Overview
+41368536611055002446,F4345,Periodic Commitment Adjustments
+41368536611055002447,F3135,Periodic Invoicing Overview
+41368536611055002448,F5084,Personnel Settlement Document
+41368536611055002449,F0379,Physical Inventory
+41368536611055002450,F2913,Physical Inventory Analysis (Design Studio)
+41368536611055002451,F2744,Physical Inventory Capture IOG - Volume/Mass Reading
+41368536611055002452,F0868,Pick Outbound Delivery
+41368536611055002453,F3700,Plan Actual Comparison
+41368536611055002454,F0625,Plan Data Deliveries
+41368536611055002455,F1037,Plan Procurement for Buy-Planner
+41368536611055002456,F4152,Plan Repairs
+41368536611055002457,F4535,Plan Supply to Production
+41368536611055002458,F0238,Planned Order
+41368536611055002459,F2260,Planned Order Object Page
+41368536611055002460,F2802,Planned vs Actual Shipments
+41368536611055002461,F2832,Planner Overview
+41368536611055002462,F3434,Planograph
+41368536611055002463,F1645,PM Notification Re-Use Library
+41368536611055002464,F4593,pMRP Issue List
+41368536611055002465,F4769,Policy Inquiry
+41368536611055002466,F5098,Post Agent Receivable
+41368536611055002467,F1606,Post Currency Adjustments
+41368536611055002468,F4974,Post Goods Receipt for JIT Supply To Production
+41368536611055002469,F3110,Post Goods Receipt for Production Order
+41368536611055002470,F3244,Post Goods Receipt without Reference
+41368536611055002471,F2971,Post Group Journal Entries
+41368536611055002472,F1345,Post Incoming Payments
+41368536611055002473,F1612,Post Outgoing Payments
+41368536611055002474,F4923,Post Receivables for Collection Agency
+41368536611055002475,F5056,Post Revenue Distribution Documents
+41368536611055002476,F1597,Post Tax Payables
+41368536611055002477,F4410,Post Tax Payables for Russia
+41368536611055002478,F3539,Post Value Adjustments
+41368536611055002479,F1691,PP/DS: MRP Cockpit Reuse Component
+41368536611055002480,F2874,Preliminary Billing Document
+41368536611055002481,F4909,Prepare MBOM Creation
+41368536611055002482,F3843,Prepare Value Adjustment Analysis
+41368536611055002483,F5047,Prepayment Agreement Workcenter-Barter
+41368536611055002484,F5093,Prepayment Interest Simulation
+41368536611055002485,F5046,Prepayment Reuse
+41368536611055002486,F5049,Prepayment Workcenter
+41368536611055002487,F4103,Preview Events
+41368536611055002488,F1310,Pricing Reuse Library
+41368536611055002489,F3537,Print Correspondence
+41368536611055002490,F1563,Print Labels
+41368536611055002491,F4844,Print Quality Certificates for Batches
+41368536611055002492,F4845,Print Quality Certificates for Inspection Lots
+41368536611055002493,F2735,Process Address Screening Hits
+41368536611055002494,F0852,Process Bank Work Items
+41368536611055002495,F0852A,Process Bank Work Items (Version 2)
+41368536611055002496,F3358,Process Billing Errors
+41368536611055002497,F3339,Process Billing Orders
+41368536611055002498,F2695,Process Closing Tasks
+41368536611055002499,F0380,Process Collections Worklist
+41368536611055002500,F3342,Process Compliance Requests from Logistics
